@@ -1,0 +1,294 @@
+{
+  "state": "Tamil Nadu",
+  "cultural_context": {
+    "description": "Tamil Nadu has a rich and diverse cultural heritage expressed through Tamil language and literature, temple architecture, classical and folk music and dance, festivals, crafts, cuisine, and regional traditions.",
+    "important_note": "Cultural practices vary across regions, communities, religions, families, generations, and individual contexts. Information in this file should not be treated as universal to every person in Tamil Nadu.",
+    "source": {
+      "organization": "Ministry of Tourism, Government of India",
+      "title": "Tamil Nadu",
+      "url": "https://www.incredibleindia.gov.in/en/tamil-nadu"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [],
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "Tamil Nadu has regional, linguistic, religious, and community diversity, so do not assume one communication style represents everyone.",
+      "When participating in a cultural or religious event, follow the guidance of local hosts, organizers, or the relevant venue."
+    ],
+    "limitation": "The current verified knowledge base does not contain a sufficiently sourced everyday Tamil phrase list. Do not invent Tamil phrases or translations."
+  },
+  "local_phrases": [],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Regional culinary diversity",
+        "description": "Official tourism material describes Tamil cuisine as diverse, with distinct culinary traditions across regions including Chettinad and Kongu areas. Rice, lentils, grains, vegetables, and a variety of vegetarian and non-vegetarian preparations are part of the documented cuisine.",
+        "source": {
+          "organization": "Ministry of Tourism, Government of India",
+          "title": "Tamil Nadu",
+          "url": "https://www.incredibleindia.gov.in/en/tamil-nadu"
+        }
+      },
+      {
+        "context": "Traditional meal service",
+        "description": "Official Incredible India material notes the traditional practice of serving meals on banana leaves as part of the dining culture of Tamil Nadu.",
+        "source": {
+          "organization": "Ministry of Tourism, Government of India",
+          "title": "Tamil Nadu",
+          "url": "https://www.incredibleindia.gov.in/en/tamil-nadu"
+        }
+      },
+      {
+        "context": "Pongal food tradition",
+        "description": "Pongal festival traditions include preparing and offering Pongal, a rice-based preparation, as part of harvest celebrations.",
+        "source": {
+          "organization": "Tamil Nadu Tourism",
+          "title": "Thai Pongal Festival",
+          "url": "https://www.tamilnadutourism.com/attractions/festivals/thai-pongal-festival"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Do not assume one Tamil cuisine represents the entire state.",
+      "Food practices vary by region, community, religion, family tradition, and individual preference.",
+      "When invited to a traditional meal, observe local hosts and follow their guidance rather than assuming a particular dining custom is universal."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every region and community in Tamil Nadu."
+  },
+  "core_values": [
+    {
+      "name": "Cultural continuity",
+      "description": "Tamil Nadu's cultural identity is reflected through its long literary, architectural, musical, dance, craft, and festival traditions.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Tamil Nadu",
+        "url": "https://www.incredibleindia.gov.in/en/tamil-nadu"
+      }
+    },
+    {
+      "name": "Regional diversity",
+      "description": "Official tourism material documents distinct culinary and cultural traditions across different regions of Tamil Nadu, including Chettinad and Kongu areas.",
+      "source": {
+        "organization": "Tamil Nadu Tourism",
+        "title": "Tamilnadu Culture",
+        "url": "https://www.tamilnadutourism.com/culture"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Pongal",
+      "period": "Usually January 13-16; dates follow the Tamil calendar",
+      "description": "Pongal is a major harvest festival in Tamil Nadu. Official tourism sources describe the four-day observance through Bogi, Thai Pongal, Mattu Pongal, and Kaanum/Thiruvalluvar Day, with traditions involving the Sun, nature, agricultural harvests, and cattle.",
+      "source": {
+        "organization": "Tamil Nadu Tourism",
+        "title": "Thai Pongal Festival",
+        "url": "https://www.tamilnadutourism.com/attractions/festivals/thai-pongal-festival"
+      }
+    },
+    {
+      "name": "Puthandu",
+      "period": "Usually mid-April; date varies according to the Tamil calendar",
+      "description": "Puthandu is the Tamil New Year. Tourism material documents traditions including decorative Kolam designs and family or temple observances.",
+      "source": {
+        "organization": "Tamil Nadu Tourism",
+        "title": "Most Important Festivals of Tamilnadu",
+        "url": "https://www.tamilnadutourism.com/blog/most-important-festivals-of-tamilnadu-that-are-worth-watching-and-experiencing/"
+      }
+    },
+    {
+      "name": "Chithirai Festival",
+      "period": "Usually April-May; dates vary annually",
+      "description": "Chithirai celebrations are among the festivals documented by Tamil Nadu's Department of Art and Culture and state tourism material, with major traditions associated with Madurai.",
+      "source": {
+        "organization": "Department of Art and Culture, Government of Tamil Nadu",
+        "title": "Regional Cultural Centres",
+        "url": "https://artandculture.tn.gov.in/regional-cultural-centres"
+      }
+    },
+    {
+      "name": "Karthigai Deepam",
+      "period": "Usually November-December; date varies annually",
+      "description": "Karthigai Deepam is listed by the Tamil Nadu Department of Art and Culture among the state's cultural festivals.",
+      "source": {
+        "organization": "Department of Art and Culture, Government of Tamil Nadu",
+        "title": "Regional Cultural Centres",
+        "url": "https://artandculture.tn.gov.in/regional-cultural-centres"
+      }
+    },
+    {
+      "name": "Mamallapuram Indian Dance Festival",
+      "period": "Usually December-January",
+      "description": "The Mamallapuram Indian Dance Festival is organized by the Tamil Nadu Department of Tourism and presents classical and folk dance traditions against the heritage setting of Mamallapuram.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Indian Dance Festival",
+        "url": "https://utsav.gov.in/view-event/indian-dance-festival-2"
+      }
+    },
+    {
+      "name": "Thyagaraja Aradhana",
+      "period": "Usually January-February",
+      "description": "The Thyagaraja Aradhana at Thiruvaiyaru is associated with the musical legacy of Saint Thyagaraja and is documented as a major Carnatic music gathering.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "20 Year Perspective Tourism Plan for the State of Tamil Nadu",
+        "url": "https://tourism.gov.in/sites/default/files/2020-04/20%20year%20perspective%20Plan%20of%20Tamilnadu.pdf"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Bharatanatyam",
+      "description": "Bharatanatyam is a major Indian classical dance form strongly associated with Tamil Nadu, known for expressive gestures, footwork, rhythmic structure, and storytelling through movement.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Tamil Nadu",
+        "url": "https://www.incredibleindia.gov.in/en/tamil-nadu"
+      }
+    },
+    {
+      "name": "Karagattam",
+      "description": "Karagattam is documented among Tamil Nadu's traditional folk performance forms.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Namma Ooru Thiruvizha",
+        "url": "https://utsav.gov.in/view-event/namma-ooru-thiruvizha-chennai"
+      }
+    },
+    {
+      "name": "Mayilattam",
+      "description": "Mayilattam is documented among Tamil Nadu's traditional folk dance forms and is performed in cultural and festival settings.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Namma Ooru Thiruvizha",
+        "url": "https://utsav.gov.in/view-event/namma-ooru-thiruvizha-chennai"
+      }
+    },
+    {
+      "name": "Kolattam",
+      "description": "Kolattam is a traditional folk dance documented in connection with Tamil cultural celebrations, including Pongal-related events.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Pongal Festival Every Year",
+        "url": "https://www.utsav.gov.in/view-event/pongal-festival-every-year-1"
+      }
+    },
+    {
+      "name": "Silambattam",
+      "description": "Silambattam is documented as a traditional Tamil performance tradition and is included in official tourism festival programming.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Pongal Festival 2025 - Madurai",
+        "url": "https://www.utsav.gov.in/public/view-event/pongal-festival-2025-madurai-1"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Traditional Tamil attire",
+      "description": "Traditional clothing is part of Tamil Nadu's cultural and festival life. Clothing varies by region, community, religion, occasion, and individual preference.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Tamil Nadu",
+        "url": "https://www.incredibleindia.gov.in/en/tamil-nadu"
+      }
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Kolam",
+      "description": "Kolam is a traditional floor-art practice in which decorative designs are created at the entrance of homes. Official tourism material describes it as symbolizing welcome, prosperity, and blessings.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Tamil Nadu",
+        "url": "https://www.incredibleindia.gov.in/en/tamil-nadu"
+      }
+    },
+    {
+      "name": "Stone carving and sculpture",
+      "description": "Tamil Nadu has a documented heritage of stone carving, sculpture, bronze work, and intricate temple carvings, especially associated with its historic temple architecture.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Tamil Nadu",
+        "url": "https://www.incredibleindia.gov.in/en/tamil-nadu"
+      }
+    },
+    {
+      "name": "Folk theatre and traditional performance",
+      "description": "Official Tamil Nadu cultural festival programming includes traditional performance forms such as Thol Paavai Koothu and other folk arts.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Namma Ooru Thiruvizha",
+        "url": "https://utsav.gov.in/view-event/namma-ooru-thiruvizha-chennai"
+      }
+    },
+    {
+      "name": "Carnatic music",
+      "description": "Carnatic music is an important part of Tamil Nadu's classical music heritage. Thiruvaiyaru is particularly associated with Saint Thyagaraja and the annual Thyagaraja Aradhana.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "20 Year Perspective Tourism Plan for the State of Tamil Nadu",
+        "url": "https://tourism.gov.in/sites/default/files/2020-04/20%20year%20perspective%20Plan%20of%20Tamilnadu.pdf"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Temple traditions",
+      "description": "Tamil Nadu has extensive temple traditions, with major historic temples and temple festivals forming an important part of its cultural landscape.",
+      "source": {
+        "organization": "Tamil Nadu Tourism",
+        "title": "Tamilnadu Culture",
+        "url": "https://www.tamilnadutourism.com/culture"
+      }
+    },
+    {
+      "name": "Pongal harvest observances",
+      "description": "Pongal includes observances honoring the Sun, nature, agricultural harvests, and cattle. Mattu Pongal includes special worship and decoration of cattle in documented traditions.",
+      "source": {
+        "organization": "Tamil Nadu Tourism",
+        "title": "Thai Pongal Festival",
+        "url": "https://www.tamilnadutourism.com/attractions/festivals/thai-pongal-festival"
+      }
+    },
+    {
+      "name": "Kolam as household cultural practice",
+      "description": "Kolam designs at home entrances are documented as a cultural practice associated with welcome, prosperity, and blessings.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Tamil Nadu",
+        "url": "https://www.incredibleindia.gov.in/en/tamil-nadu"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "Treat temples, religious ceremonies, festivals, ritual performances, and community traditions with respect.",
+    "When entering temples or other sacred spaces, follow the venue's instructions regarding clothing, footwear, photography, and behavior.",
+    "Ask before photographing people, ritual performers, religious ceremonies, or culturally significant activities when permission or local rules are unclear.",
+    "Do not assume a festival or practice observed in one district or community applies throughout Tamil Nadu.",
+    "Respect Kolam and other household or community cultural practices rather than treating them merely as tourist photo opportunities.",
+    "Do not treat ritual or devotional performances simply as entertainment.",
+    "Tamil Nadu has significant regional diversity in cuisine, arts, festivals, and customs; avoid presenting one tradition as representative of everyone."
+  ],
+  "knowledge_limitations": [
+    "The verified knowledge base does not provide a sufficiently sourced everyday Tamil phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for all regions and communities.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for Tamil Nadu.",
+    "The verified knowledge base does not provide a comprehensive state-wide transportation etiquette guide.",
+    "Traditional clothing varies by region, community, religion, occasion, and individual; descriptions should not be converted into universal dress rules.",
+    "Festival dates vary annually or according to the Tamil calendar; current dates should be checked with official tourism or government event information.",
+    "Descriptions of community-specific religious or folk traditions should not be generalized to all residents of Tamil Nadu."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for Tamil Nadu-specific cultural claims.",
+    "Do not invent Tamil phrases or translations.",
+    "Use festival information for festival-specific guidance and do not turn a local or community-specific practice into a universal Tamil Nadu-wide rule.",
+    "Use traditional_dances, traditional_clothing, traditional_arts, and spiritual_and_cultural_practices to explain documented heritage and customs.",
+    "Do not invent food customs, rental prices, housing recommendations, transportation rules, or religious practices that are not supported by this knowledge base.",
+    "Clearly state when a practice varies by region, community, religion, family, generation, or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so rather than guessing.",
+    "Personalize the guide using verified information, but do not introduce unsupported Tamil Nadu-specific factual claims."
+  ]
+}

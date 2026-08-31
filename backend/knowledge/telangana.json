@@ -1,0 +1,269 @@
+{
+  "state": "Telangana",
+  "cultural_context": {
+    "description": "Telangana has a distinctive cultural heritage expressed through Telugu language and literature, temple and folk traditions, festivals, music and dance, crafts, cuisine, and the historic culture of Hyderabad and the wider Deccan region.",
+    "important_note": "Cultural practices vary across regions, communities, religions, families, generations, and individual contexts. Information in this file should not be treated as universal to every person in Telangana.",
+    "source": {
+      "organization": "Telangana Tourism Development Corporation",
+      "title": "Telangana Tourism",
+      "url": "https://tourism.telangana.gov.in/"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [],
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "Telangana has linguistic, religious, regional, and community diversity, so do not assume one communication style represents everyone.",
+      "Hyderabad has a particularly diverse urban culture; avoid assuming that every resident follows the same language, religion, food tradition, or social practice.",
+      "When participating in a cultural or religious event, follow the guidance of local hosts, organizers, or the relevant venue."
+    ],
+    "limitation": "The current verified knowledge base does not contain a sufficiently sourced everyday Telugu or Dakhini phrase list. Do not invent local phrases or translations."
+  },
+  "local_phrases": [],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Hyderabadi culinary heritage",
+        "description": "Official Telangana tourism material identifies Hyderabad's cuisine as an important part of the city's cultural heritage and documents its distinctive culinary traditions.",
+        "source": {
+          "organization": "Telangana Tourism Development Corporation",
+          "title": "Hyderabad",
+          "url": "https://tourism.telangana.gov.in/page/hyderabad"
+        }
+      },
+      {
+        "context": "Telangana regional cuisine",
+        "description": "Telangana tourism material documents regional food traditions and local cuisine as part of the state's cultural identity.",
+        "source": {
+          "organization": "Telangana Tourism Development Corporation",
+          "title": "Telangana Tourism",
+          "url": "https://tourism.telangana.gov.in/"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Do not assume Hyderabadi cuisine represents all of Telangana.",
+      "Food practices can vary according to region, religion, community, family tradition, and individual preference.",
+      "Respect individual dietary choices and follow local hosts' guidance at traditional meals and community events."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every region and community in Telangana."
+  },
+  "core_values": [
+    {
+      "name": "Regional cultural identity",
+      "description": "Telangana's tourism and cultural material presents the state's festivals, folk traditions, crafts, cuisine, and historic sites as important expressions of its regional identity.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Telangana Tourism",
+        "url": "https://tourism.telangana.gov.in/"
+      }
+    },
+    {
+      "name": "Community traditions",
+      "description": "Several Telangana festivals and folk traditions are community-centered celebrations involving ritual, music, dance, food, and local participation.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Bathukamma",
+        "url": "https://tourism.telangana.gov.in/page/bathukamma"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Bathukamma",
+      "period": "Usually September-October; dates vary annually according to the lunar calendar",
+      "description": "Bathukamma is a major Telangana floral festival. Women create and arrange seasonal flowers into decorated floral stacks and participate in community singing and dancing around them.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Bathukamma",
+        "url": "https://tourism.telangana.gov.in/page/bathukamma"
+      }
+    },
+    {
+      "name": "Bonalu",
+      "period": "Usually July-August; dates vary annually",
+      "description": "Bonalu is a major Telangana festival dedicated to Goddess Mahankali. Official tourism material documents offerings, processions, traditional performances, and community participation during the festival.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Bonalu",
+        "url": "https://tourism.telangana.gov.in/page/bonalu"
+      }
+    },
+    {
+      "name": "Sammakka Saralamma Jatara",
+      "period": "Held biennially; dates follow the traditional lunar calendar",
+      "description": "The Sammakka Saralamma Jatara at Medaram is one of Telangana's major tribal and religious gatherings, attracting large numbers of devotees and visitors.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Sammakka Saralamma Jatara",
+        "url": "https://tourism.telangana.gov.in/page/sammakka-saralamma-jatara"
+      }
+    },
+    {
+      "name": "Nagoba Jatara",
+      "period": "Usually January-February; dates vary annually",
+      "description": "Nagoba Jatara is a significant tribal religious festival held at Keslapur in Adilabad district and associated with the Mesram clan of the Gond community.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Nagoba Jatara",
+        "url": "https://tourism.telangana.gov.in/page/nagoba-jatara"
+      }
+    },
+    {
+      "name": "Peerla Panduga",
+      "period": "Dates vary annually",
+      "description": "Peerla Panduga is documented among Telangana's cultural and religious traditions and reflects the state's diverse community practices.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Telangana Tourism",
+        "url": "https://tourism.telangana.gov.in/"
+      }
+    },
+    {
+      "name": "Ugadi",
+      "period": "Usually March-April; date varies annually",
+      "description": "Ugadi is celebrated as the Telugu New Year in Telangana and is associated with the beginning of a new year in the traditional calendar.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Telangana Tourism",
+        "url": "https://tourism.telangana.gov.in/"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Perini Shivatandavam",
+      "description": "Perini Shivatandavam is a traditional dance form associated with Telangana's historical cultural heritage and is traditionally connected with devotion to Lord Shiva.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Perini Shivatandavam",
+        "url": "https://tourism.telangana.gov.in/page/perini-shivatandavam"
+      }
+    },
+    {
+      "name": "Dappu dance",
+      "description": "Dappu is a Telangana folk performance tradition centered on the dappu drum and is performed in community and festival contexts.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Telangana Tourism",
+        "url": "https://tourism.telangana.gov.in/"
+      }
+    },
+    {
+      "name": "Oggu Katha performance tradition",
+      "description": "Oggu Katha is a traditional storytelling performance associated with Telangana folk culture, combining narrative, music, and performance.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Telangana Tourism",
+        "url": "https://tourism.telangana.gov.in/"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Traditional Telangana attire",
+      "description": "Traditional clothing forms part of Telangana's cultural and festival life. Clothing varies by region, community, religion, occasion, and individual preference.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Telangana Tourism",
+        "url": "https://tourism.telangana.gov.in/"
+      }
+    },
+    {
+      "name": "Bathukamma festival attire",
+      "description": "Traditional and festive clothing is commonly associated with Bathukamma celebrations, but clothing choices vary between communities, families, locations, and individuals.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Bathukamma",
+        "url": "https://tourism.telangana.gov.in/page/bathukamma"
+      }
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Cheriyal scroll painting",
+      "description": "Cheriyal scroll painting is a traditional Telangana narrative art form using painted scrolls to depict stories and scenes.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Cheriyal Paintings",
+        "url": "https://handicrafts.nic.in/crafts/All_Crafts/Craft_Categories/Miscellaneous/Cheriyal_Paintings/Cheriyal_Paintingswebpage.html"
+      }
+    },
+    {
+      "name": "Telangana handicrafts",
+      "description": "Telangana is known for regional handicraft traditions including Cheriyal painting, Nirmal art and related craft traditions documented in official handicraft and tourism sources.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Crafts of Telangana",
+        "url": "https://handicrafts.nic.in/"
+      }
+    },
+    {
+      "name": "Oggu Katha",
+      "description": "Oggu Katha combines storytelling, song, music, and performance and is an important Telangana folk-art tradition.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Telangana Tourism",
+        "url": "https://tourism.telangana.gov.in/"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Bathukamma floral tradition",
+      "description": "Bathukamma involves arranging seasonal flowers into distinctive floral forms and participating in communal singing and dancing as part of the festival.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Bathukamma",
+        "url": "https://tourism.telangana.gov.in/page/bathukamma"
+      }
+    },
+    {
+      "name": "Bonalu offerings and processions",
+      "description": "Bonalu includes devotional offerings to Goddess Mahankali and associated community processions and performances.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Bonalu",
+        "url": "https://tourism.telangana.gov.in/page/bonalu"
+      }
+    },
+    {
+      "name": "Tribal religious traditions",
+      "description": "Festivals such as Sammakka Saralamma Jatara and Nagoba Jatara have specific tribal religious and community significance and should be described in their local context rather than generalized to all Telangana residents.",
+      "source": {
+        "organization": "Telangana Tourism Development Corporation",
+        "title": "Sammakka Saralamma Jatara",
+        "url": "https://tourism.telangana.gov.in/page/sammakka-saralamma-jatara"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "Treat local customs, religious practices, festivals, folk performances, and community celebrations with respect.",
+    "Do not assume that a Hyderabad-specific tradition represents all of Telangana.",
+    "Do not assume that a tribal, village, regional, or community-specific practice applies to all residents of the state.",
+    "Ask before photographing people, ritual performers, religious ceremonies, or culturally significant activities when permission or local rules are unclear.",
+    "When entering temples or other sacred spaces, follow the venue's instructions regarding clothing, footwear, photography, and behavior.",
+    "Do not treat ritual traditions such as Bonalu or tribal jatara practices simply as entertainment.",
+    "Respect local communities and their cultural practices, particularly during large festivals and religious gatherings."
+  ],
+  "knowledge_limitations": [
+    "The verified knowledge base does not provide a sufficiently sourced everyday Telugu or Dakhini phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for all regions and communities.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for Telangana.",
+    "The verified knowledge base does not provide a comprehensive state-wide transportation etiquette guide.",
+    "Traditional clothing varies by region, community, religion, occasion, and individual; descriptions should not be converted into universal dress rules.",
+    "Festival dates vary annually or follow traditional lunar calendars; current dates should be checked with official Telangana Tourism or event sources.",
+    "Descriptions of tribal and community-specific traditions should not be generalized to all residents of Telangana.",
+    "Hyderabad's urban culture is particularly diverse, so city-specific guidance should not automatically be presented as state-wide cultural practice."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for Telangana-specific cultural claims.",
+    "Do not invent Telugu, Dakhini, or other local phrases or translations.",
+    "Use festival information for festival-specific guidance and do not turn a local or community-specific practice into a universal Telangana-wide rule.",
+    "Use traditional_dances, traditional_clothing, traditional_arts, and spiritual_and_cultural_practices to explain documented heritage and customs.",
+    "Do not invent food customs, rental prices, housing recommendations, transportation rules, or religious practices that are not supported by this knowledge base.",
+    "Clearly state when a practice varies by region, community, religion, family, generation, or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so rather than guessing.",
+    "Personalize the guide using verified information, but do not introduce unsupported Telangana-specific factual claims."
+  ]
+}

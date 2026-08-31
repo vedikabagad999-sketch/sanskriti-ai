@@ -1,0 +1,270 @@
+{
+  "state": "Maharashtra",
+  "cultural_context": {
+    "description": "Maharashtra has a diverse cultural heritage expressed through festivals, folk arts, traditional textiles, regional cuisines, devotional traditions, and community celebrations.",
+    "important_note": "Cultural practices can vary across regions, communities, families, generations, and individual contexts. This file should not be treated as universal to every person in Maharashtra.",
+    "source": {
+      "organization": "Department of Tourism, Government of Maharashtra",
+      "department": "Directorate of Tourism",
+      "title": "Introduction",
+      "url": "https://maharashtratourism.gov.in/introduction/"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [
+      {
+        "phrase": "Namaskar",
+        "meaning": "A respectful greeting used in Marathi-language official communication.",
+        "usage_note": "Official Maharashtra government material contains formal Marathi-language addresses beginning with 'Namaskar'. This supports its use as a respectful greeting, but does not establish it as the only or universal greeting used by all communities.",
+        "source": {
+          "organization": "Government of Maharashtra",
+          "department": "Higher and Technical Education Department",
+          "title": "SGBAU Annual Report 2021-2022 – Convocation Ceremony",
+          "url": "https://htedu.maharashtra.gov.in/Main/DocMasters/Website/Media/1/SGBAU%20ANNUAL%20REPORT%202021-2022%20%28English%29.pdf"
+        }
+      }
+    ],
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "Do not assume one communication style applies identically across all communities and regions.",
+      "When participating in cultural events, follow the guidance of local hosts or organizers."
+    ]
+  },
+  "local_phrases": [
+    {
+      "phrase": "Namaskar",
+      "meaning": "Respectful greeting.",
+      "usage_note": "Documented in formal Marathi-language communication from a Government of Maharashtra department.",
+      "source": {
+        "organization": "Government of Maharashtra",
+        "department": "Higher and Technical Education Department",
+        "title": "SGBAU Annual Report 2021-2022 – Convocation Ceremony",
+        "url": "https://htedu.maharashtra.gov.in/Main/DocMasters/Website/Media/1/SGBAU%20ANNUAL%20REPORT%202021-2022%20%28English%29.pdf"
+      }
+    }
+  ],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Regional diversity",
+        "description": "Maharashtra's food culture varies by region. Official Maharashtra Tourism material describes coastal cuisines with seafood, coconut and kokum; inland cuisines using ingredients such as jowar and bajra; and distinct traditions such as Varhadi, Malwani, Kolhapuri, Saoji and Konkani cuisines.",
+        "source": {
+          "organization": "Department of Tourism, Government of Maharashtra",
+          "department": "Directorate of Tourism",
+          "title": "Flavors of Maharashtra",
+          "url": "https://maharashtratourism.gov.in/flavors-of-maharashtra/"
+        }
+      },
+      {
+        "context": "Festival foods",
+        "description": "Official Maharashtra Tourism material documents foods associated with festivals, including modak during Ganeshotsav and puran poli and shrikhand during Gudi Padwa.",
+        "source": {
+          "organization": "Department of Tourism, Government of Maharashtra",
+          "department": "Directorate of Tourism",
+          "title": "Maharashtra's Food Culture",
+          "url": "https://maharashtratourism.gov.in/mr/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A5%80-%E0%A4%96%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D/"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Do not assume one Maharashtrian cuisine represents the entire state.",
+      "Regional food preferences can differ substantially between coastal, inland and other parts of Maharashtra.",
+      "When offered festival or community food, follow local hosts and respect individual dietary choices."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every region and community in Maharashtra. Specific dietary or hospitality rules should not be invented."
+  },
+  "core_values": [
+    {
+      "name": "Community participation",
+      "description": "Official Maharashtra Tourism descriptions of festivals and cultural traditions document family, community and collective participation in celebrations and cultural activities.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Gudi Padwa",
+        "url": "https://maharashtratourism.gov.in/festivals/gudi-padwa/"
+      }
+    },
+    {
+      "name": "Cultural craftsmanship",
+      "description": "Traditional textile and artistic practices, including Paithani weaving and Warli art, are documented as important parts of Maharashtra's cultural heritage.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Paithani Sarees",
+        "url": "https://maharashtratourism.gov.in/heritage/paithan/"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Gudi Padwa",
+      "period": "First day of the Chaitra month",
+      "description": "Gudi Padwa is celebrated as the Marathi New Year and is associated with new beginnings, prosperity, family gatherings and cultural celebrations. Homes may display a Gudi, and traditional foods and rangoli are documented parts of celebrations.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Gudi Padwa",
+        "url": "https://maharashtratourism.gov.in/festivals/gudi-padwa/"
+      }
+    },
+    {
+      "name": "Ganesh Chaturthi",
+      "period": "Bhadrapada Shukla Chaturthi, generally August-September",
+      "description": "Ganesh Chaturthi is a major festival in Maharashtra involving religious devotion, cultural activity and community celebrations.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Ganesh Chaturthi",
+        "url": "https://maharashtratourism.gov.in/mr/festivals/%E0%A4%97%E0%A4%A3%E0%A5%87%E0%A4%B6%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A5%80/"
+      }
+    },
+    {
+      "name": "Makar Sankranti",
+      "period": "January",
+      "description": "Maharashtra Tourism documents tilgul exchanges, haldi-kumkum gatherings, family celebrations and other regional traditions associated with Makar Sankranti.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Makar Sankranti",
+        "url": "https://maharashtratourism.gov.in/festivals/makar-sankranti/"
+      }
+    },
+    {
+      "name": "Bhondla",
+      "period": "Festive season around Ganesh Chaturthi and Navratri",
+      "description": "Bhondla is documented as a traditional folk celebration involving community gathering, songs, dance, rituals and feasting, particularly associated with rural traditions.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Bhondla",
+        "url": "https://maharashtratourism.gov.in/culture/bhondla/"
+      }
+    },
+    {
+      "name": "Maharashtra Day",
+      "period": "1 May",
+      "description": "Maharashtra Day commemorates the formation of the state of Maharashtra in 1960 and is marked by official ceremonies, cultural programmes and public events.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Maharashtra Din",
+        "url": "https://maharashtratourism.gov.in/festivals/maharashtra-din/"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Lavani",
+      "description": "Lavani is documented by Maharashtra Tourism among Maharashtra's folk and cultural performance traditions.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Dashavtaar",
+        "url": "https://maharashtratourism.gov.in/culture/dashavtaar/"
+      }
+    },
+    {
+      "name": "Koli dance",
+      "description": "Koli dance is documented among folk dances featured in cultural celebrations in Maharashtra.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Dashavtaar",
+        "url": "https://maharashtratourism.gov.in/culture/dashavtaar/"
+      }
+    },
+    {
+      "name": "Tarpa dance",
+      "description": "Tarpa dance is identified as a significant part of Warli cultural heritage in Palghar and surrounding areas.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Tarpa dance",
+        "url": "https://maharashtratourism.gov.in/districts/palghar/"
+      }
+    },
+    {
+      "name": "Aadivasi Nritya",
+      "description": "Maharashtra Tourism documents tribal dance traditions connected with communities including Warli, Bhil, Gond and Korku, with forms varying between communities.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Aadivasi Nritya",
+        "url": "https://maharashtratourism.gov.in/culture/aadivasi-nritya/"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Paithani",
+      "description": "Paithani silk sarees are associated with Paithan and are described by Maharashtra Tourism as handwoven by local artisans with intricate regional designs and patterns.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Paithan",
+        "url": "https://maharashtratourism.gov.in/heritage/paithan/"
+      }
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Warli painting",
+      "description": "Warli painting is documented as an indigenous artistic tradition associated with the Warli community, depicting daily life, folklore, cultural rituals and nature. Official district material describes use of natural materials such as soil, rice flour, plant dyes and bamboo brushes.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Palghar",
+        "url": "https://maharashtratourism.gov.in/districts/palghar/"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Keertan",
+      "description": "Keertan is documented as a tradition combining devotional music, storytelling and spiritual discourse, with historical associations to saints including Sant Tukaram, Sant Eknath and Sant Namdev.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Keertan",
+        "url": "https://maharashtratourism.gov.in/culture/keertan/"
+      }
+    },
+    {
+      "name": "Festival prayers and rituals",
+      "description": "Official Maharashtra Tourism descriptions document prayers, worship and ritual practices as parts of festivals such as Gudi Padwa and Ganesh Chaturthi.",
+      "source": {
+        "organization": "Department of Tourism, Government of Maharashtra",
+        "department": "Directorate of Tourism",
+        "title": "Gudi Padwa",
+        "url": "https://maharashtratourism.gov.in/festivals/gudi-padwa/"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "Treat local cultural practices, religious traditions and community celebrations with respect.",
+    "Do not assume a practice documented in one region applies throughout Maharashtra.",
+    "When attending a cultural or religious event, follow the guidance of local hosts, organizers or the relevant venue.",
+    "Respect traditional arts and textiles as cultural heritage rather than treating them only as tourist commodities.",
+    "Maharashtra has substantial regional cultural and culinary diversity; avoid describing one regional tradition as representative of everyone in the state."
+  ],
+  "knowledge_limitations": [
+    "The verified knowledge base does not provide a complete Marathi phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for all regions and communities.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for Maharashtra.",
+    "The verified knowledge base does not provide a comprehensive state-wide guide to local transportation etiquette.",
+    "Traditional dress practices can vary by region, occasion, community and individual; the available sources do not support universal dress rules for all visitors.",
+    "Religious and spiritual practices vary between communities; the available sources should not be used to make universal claims about religious behavior."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for Maharashtra-specific cultural claims.",
+    "Use greetings_and_communication and local_phrases only for phrases documented in this file.",
+    "Use food_and_dining to explain Maharashtra's documented regional food diversity without presenting one cuisine as universal.",
+    "Use festivals for destination-specific festival information and do not turn festival-specific practices into universal everyday rules.",
+    "Use traditional_dances, traditional_clothing and traditional_arts for cultural heritage explanations.",
+    "Do not invent Marathi phrases, translations, food customs, religious practices, rental prices, transportation rules or local recommendations.",
+    "Do not present information as universal when the source describes a regional, community-specific or occasion-specific practice.",
+    "Clearly communicate when information may vary by region, community, family, generation or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so instead of guessing.",
+    "Gemini may personalize and explain verified information, but must not introduce unsupported Maharashtra-specific factual claims."
+  ]
+}

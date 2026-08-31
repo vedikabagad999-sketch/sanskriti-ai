@@ -1,0 +1,266 @@
+{
+  "state": "Andhra Pradesh",
+  "cultural_context": {
+    "description": "Andhra Pradesh has a diverse cultural heritage expressed through Telugu language and literature, classical and folk arts, temple traditions, festivals, crafts, cuisine, textiles, and regional traditions across coastal Andhra and Rayalaseema.",
+    "important_note": "Cultural practices vary across regions, communities, religions, families, generations, and individual contexts. Information in this file should not be treated as universal to every person in Andhra Pradesh.",
+    "source": {
+      "organization": "Andhra Pradesh Tourism Development Corporation",
+      "title": "Andhra Pradesh Tourism",
+      "url": "https://www.aptdc.gov.in/"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [],
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "Andhra Pradesh has linguistic, regional, religious, and community diversity, so do not assume one communication style represents everyone.",
+      "When participating in a cultural or religious event, follow the guidance of local hosts, organizers, or the relevant venue."
+    ],
+    "limitation": "The current verified knowledge base does not contain a sufficiently sourced everyday Telugu phrase list. Do not invent Telugu phrases or translations."
+  },
+  "local_phrases": [],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Andhra cuisine",
+        "description": "Andhra Pradesh Tourism documents Andhra cuisine as an important part of the state's cultural identity, with regional food traditions and distinctive preparations.",
+        "source": {
+          "organization": "Andhra Pradesh Tourism",
+          "title": "Cuisine",
+          "url": "https://tourism.ap.gov.in/"
+        }
+      },
+      {
+        "context": "Regional diversity",
+        "description": "Food traditions vary across different parts of Andhra Pradesh, including coastal Andhra and Rayalaseema, so one style should not be treated as representative of the entire state.",
+        "source": {
+          "organization": "Andhra Pradesh Tourism",
+          "title": "Andhra Pradesh Tourism",
+          "url": "https://tourism.ap.gov.in/"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Do not assume one Andhra dish or food tradition represents the entire state.",
+      "Food practices can vary according to region, religion, community, family tradition, and individual preference.",
+      "Respect individual dietary choices and follow local hosts' guidance at traditional meals and community events."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every region and community in Andhra Pradesh."
+  },
+  "core_values": [
+    {
+      "name": "Regional cultural diversity",
+      "description": "Andhra Pradesh contains distinct regional traditions, including cultural differences between coastal Andhra and Rayalaseema.",
+      "source": {
+        "organization": "Andhra Pradesh Tourism",
+        "title": "Andhra Pradesh Tourism",
+        "url": "https://tourism.ap.gov.in/"
+      }
+    },
+    {
+      "name": "Living artistic traditions",
+      "description": "Classical dance, folk performance, crafts, textiles, temple traditions, and festivals form important parts of Andhra Pradesh's documented cultural heritage.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Andhra Pradesh",
+        "url": "https://www.incredibleindia.gov.in/en/andhra-pradesh"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Ugadi",
+      "period": "Usually March-April; date varies annually",
+      "description": "Ugadi is celebrated as the Telugu New Year and is an important traditional festival in Andhra Pradesh.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Andhra Pradesh",
+        "url": "https://www.incredibleindia.gov.in/en/andhra-pradesh"
+      }
+    },
+    {
+      "name": "Sankranti",
+      "period": "Usually January",
+      "description": "Sankranti is a major harvest festival in Andhra Pradesh and is associated with seasonal, agricultural, family, and community traditions.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Andhra Pradesh",
+        "url": "https://www.incredibleindia.gov.in/en/andhra-pradesh"
+      }
+    },
+    {
+      "name": "Tirumala Brahmotsavam",
+      "period": "Usually September-October; dates vary annually",
+      "description": "Brahmotsavam is a major religious festival associated with the Tirumala temple tradition and attracts large numbers of devotees.",
+      "source": {
+        "organization": "Tirumala Tirupati Devasthanams",
+        "title": "Srivari Brahmotsavam",
+        "url": "https://tirumala.org/"
+      }
+    },
+    {
+      "name": "Lepakshi Festival",
+      "period": "Dates vary annually",
+      "description": "The Lepakshi Festival is associated with the heritage setting of Lepakshi and presents cultural performances and local traditions.",
+      "source": {
+        "organization": "Andhra Pradesh Tourism",
+        "title": "Andhra Pradesh Tourism",
+        "url": "https://tourism.ap.gov.in/"
+      }
+    },
+    {
+      "name": "Dasara",
+      "period": "Usually September-October; date varies annually",
+      "description": "Dasara is celebrated in Andhra Pradesh with regional and religious variations.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Andhra Pradesh",
+        "url": "https://www.incredibleindia.gov.in/en/andhra-pradesh"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Kuchipudi",
+      "description": "Kuchipudi is a major Indian classical dance tradition originating in Andhra Pradesh. It combines dance, expressive storytelling, music, and theatrical elements.",
+      "source": {
+        "organization": "Ministry of Culture, Government of India",
+        "title": "Kuchipudi",
+        "url": "https://www.indiaculture.gov.in/kuchipudi"
+      }
+    },
+    {
+      "name": "Dhimsa",
+      "description": "Dhimsa is a tribal folk dance tradition associated with tribal communities of the northern Andhra Pradesh region and is performed in community and festival contexts.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Andhra Pradesh",
+        "url": "https://www.incredibleindia.gov.in/en/andhra-pradesh"
+      }
+    },
+    {
+      "name": "Kolattam",
+      "description": "Kolattam is a traditional group folk dance using sticks and is documented among Andhra Pradesh's folk traditions.",
+      "source": {
+        "organization": "Andhra Pradesh Tourism",
+        "title": "Andhra Pradesh Tourism",
+        "url": "https://tourism.ap.gov.in/"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Traditional Andhra attire",
+      "description": "Traditional clothing forms part of Andhra Pradesh's cultural and festival life. Sarees, dhotis, and regionally distinctive textiles are associated with traditional dress, but clothing varies by region, community, religion, occasion, and individual preference.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Andhra Pradesh",
+        "url": "https://www.incredibleindia.gov.in/en/andhra-pradesh"
+      }
+    },
+    {
+      "name": "Mangalagiri textiles",
+      "description": "Mangalagiri is documented for its handloom textile tradition, including distinctive cotton fabrics and sarees.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Mangalagiri Sarees and Fabrics",
+        "url": "https://handlooms.nic.in/"
+      }
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Kalamkari",
+      "description": "Kalamkari is a traditional textile and painting craft associated with Andhra Pradesh, using hand-drawn or block-printed designs on cloth.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Kalamkari",
+        "url": "https://handicrafts.nic.in/"
+      }
+    },
+    {
+      "name": "Kondapalli toys",
+      "description": "Kondapalli wooden toys are a traditional craft associated with Kondapalli in Andhra Pradesh and are made from locally sourced lightweight wood.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Kondapalli Toys",
+        "url": "https://handicrafts.nic.in/"
+      }
+    },
+    {
+      "name": "Etikoppaka toys",
+      "description": "Etikoppaka is known for traditional lacquered wooden toys and craft products made using a distinctive lac-turnery technique.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Etikoppaka Toys",
+        "url": "https://handicrafts.nic.in/"
+      }
+    },
+    {
+      "name": "Uppada handloom",
+      "description": "Uppada is associated with a handloom weaving tradition in Andhra Pradesh, particularly known for sarees and fine weaving.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Uppada Sarees",
+        "url": "https://handlooms.nic.in/"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Temple traditions",
+      "description": "Andhra Pradesh has major temple traditions and pilgrimage centers, including Tirumala, where religious observances and festivals are important parts of cultural life.",
+      "source": {
+        "organization": "Tirumala Tirupati Devasthanams",
+        "title": "Tirumala Tirupati Devasthanams",
+        "url": "https://tirumala.org/"
+      }
+    },
+    {
+      "name": "Sankranti cultural traditions",
+      "description": "Sankranti is associated with harvest-season celebrations and community traditions in Andhra Pradesh.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Andhra Pradesh",
+        "url": "https://www.incredibleindia.gov.in/en/andhra-pradesh"
+      }
+    },
+    {
+      "name": "Traditional folk and tribal practices",
+      "description": "Folk traditions such as Dhimsa represent particular tribal communities and should be described in their local context rather than generalized to all residents of Andhra Pradesh.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Andhra Pradesh",
+        "url": "https://www.incredibleindia.gov.in/en/andhra-pradesh"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "Treat temples, religious ceremonies, festivals, folk performances, and community celebrations with respect.",
+    "When entering temples or other sacred spaces, follow the venue's instructions regarding clothing, footwear, photography, and behavior.",
+    "Ask before photographing people, ritual performers, religious ceremonies, or culturally significant activities when permission or local rules are unclear.",
+    "Do not assume that a practice associated with coastal Andhra or Rayalaseema applies to the entire state.",
+    "Do not generalize tribal or community-specific traditions such as Dhimsa to all residents of Andhra Pradesh.",
+    "Do not treat religious or ritual practices simply as entertainment.",
+    "Respect local hosts and organizers when participating in festivals or cultural events."
+  ],
+  "knowledge_limitations": [
+    "The verified knowledge base does not provide a sufficiently sourced everyday Telugu phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for all regions and communities.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for Andhra Pradesh.",
+    "The verified knowledge base does not provide a comprehensive state-wide transportation etiquette guide.",
+    "Traditional clothing varies by region, community, religion, occasion, and individual; descriptions should not be converted into universal dress rules.",
+    "Festival dates vary annually or according to traditional calendars; current dates should be checked with official tourism or temple authorities.",
+    "Descriptions of tribal and community-specific traditions should not be generalized to all residents of Andhra Pradesh."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for Andhra Pradesh-specific cultural claims.",
+    "Do not invent Telugu phrases or translations.",
+    "Use festival information for festival-specific guidance and do not turn a local or community-specific practice into a universal Andhra Pradesh-wide rule.",
+    "Use traditional_dances, traditional_clothing, traditional_arts, and spiritual_and_cultural_practices to explain documented heritage and customs.",
+    "Do not invent food customs, rental prices, housing recommendations, transportation rules, or religious practices that are not supported by this knowledge base.",
+    "Clearly state when a practice varies by region, community, religion, family, generation, or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so rather than guessing.",
+    "Personalize the guide using verified information, but do not introduce unsupported Andhra Pradesh-specific factual claims."
+  ]
+}

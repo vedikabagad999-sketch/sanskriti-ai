@@ -1,0 +1,267 @@
+{
+  "state": "Rajasthan",
+  "cultural_context": {
+    "description": "Rajasthan has a rich and varied cultural heritage expressed through folk music and dance, fairs and festivals, visual arts and crafts, traditional clothing, cuisine, architecture, and regional languages and dialects.",
+    "important_note": "Cultural practices vary across regions, communities, religions, families, generations, and individual contexts. Information in this file should not be treated as universal to every person in Rajasthan.",
+    "source": {
+      "organization": "Government of Rajasthan",
+      "department": "Rajasthan Foundation",
+      "title": "Heritage and Culture",
+      "url": "https://foundation.rajasthan.gov.in/HeritageCulture.aspx"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [],
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "Rajasthan contains multiple regional dialects and languages, so do not assume that one speech form represents the entire state.",
+      "When participating in a cultural or religious event, follow the guidance of local hosts, organizers, or the relevant venue."
+    ],
+    "limitation": "The current verified knowledge base does not contain a sufficiently sourced phrase list for everyday greetings. Do not invent Rajasthani phrases or translations."
+  },
+  "local_phrases": [],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Regional diversity",
+        "description": "Rajasthan Tourism states that cuisine varies across the state and identifies dishes including dal-bati-churma, laal maans, safed maans, soyeta, and lasun-ki-chutney among renowned foods.",
+        "source": {
+          "organization": "Department of Tourism, Government of Rajasthan",
+          "department": "Rajasthan Tourism",
+          "title": "Rajasthan at a Glance",
+          "url": "https://www.tourism.rajasthan.gov.in/about-rajasthan.html"
+        }
+      },
+      {
+        "context": "Fairs and festivals",
+        "description": "The Government of Rajasthan notes that fairs and festivals commonly feature traditional Rajasthani food alongside traditional attire, folk songs, and folk dance.",
+        "source": {
+          "organization": "Government of Rajasthan",
+          "department": "General Administration Department",
+          "title": "Know Rajasthan",
+          "url": "https://chms.rajasthan.gov.in/Home/Know_Rajasthan"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Do not assume one Rajasthani dish represents the food culture of the entire state.",
+      "Regional food preferences and dishes can differ between parts of Rajasthan.",
+      "Respect individual dietary choices and follow the guidance of hosts at traditional meals or community events."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every region and community in Rajasthan."
+  },
+  "core_values": [
+    {
+      "name": "Cultural continuity",
+      "description": "The Government of Rajasthan describes fairs and festivals as contributing to the preservation of tradition and culture.",
+      "source": {
+        "organization": "Government of Rajasthan",
+        "department": "Rajasthan Foundation",
+        "title": "Fairs & Festivals",
+        "url": "https://foundation.rajasthan.gov.in/FairsandFestivals.aspx"
+      }
+    },
+    {
+      "name": "Hospitality",
+      "description": "Official Rajasthan Tourism material describes hospitality as a notable part of Rajasthan's cultural image, while visitors should still avoid assuming that every person or community behaves identically.",
+      "source": {
+        "organization": "Department of Tourism, Government of Rajasthan",
+        "department": "Rajasthan Tourism",
+        "title": "Rajasthan at a Glance",
+        "url": "https://www.tourism.rajasthan.gov.in/about-rajasthan.html"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Gangaur",
+      "period": "Chaitra; dates vary annually",
+      "description": "Gangaur is a major Rajasthan festival associated with the worship of Gauri or Parvati and Shiva. Rajasthan's official cultural material documents women and girls participating in worship, songs, processions, and related traditions.",
+      "source": {
+        "organization": "Government of Rajasthan",
+        "department": "Rajasthan Education Department",
+        "title": "History and Culture of Rajasthan – Celebrations, Festivals, and Fairs",
+        "url": "https://rajeduboard.rajasthan.gov.in/books-2019/books-2022/cls10/HistorynCulture.pdf"
+      }
+    },
+    {
+      "name": "Teej",
+      "period": "Monsoon season; dates vary annually",
+      "description": "Rajasthan Tourism describes Teej as a major festival in Rajasthan, particularly associated with women, religious observances, singing, dancing, mehndi, colourful clothing, festive food, and processions in Jaipur.",
+      "source": {
+        "organization": "Department of Tourism, Government of Rajasthan",
+        "department": "Rajasthan Tourism",
+        "title": "Experience the Festivities of Rajasthan – The colours of Teej",
+        "url": "https://www.tourism.rajasthan.gov.in/content/rajasthan-tourism/en/experience/travel-diaries/maulisthan.html"
+      }
+    },
+    {
+      "name": "Pushkar Fair",
+      "period": "Usually around October-November; dates vary annually",
+      "description": "The Government of Rajasthan lists Pushkar Fair among the state's major fairs and festivals.",
+      "source": {
+        "organization": "Government of Rajasthan",
+        "department": "Rajasthan Foundation",
+        "title": "Fairs & Festivals",
+        "url": "https://foundation.rajasthan.gov.in/FairsandFestivals.aspx"
+      }
+    },
+    {
+      "name": "Desert Festival",
+      "period": "Usually in January-February; dates vary annually",
+      "description": "The Government of Rajasthan lists the Desert Festival in Jaisalmer among the state's major festivals.",
+      "source": {
+        "organization": "Government of Rajasthan",
+        "department": "Rajasthan Foundation",
+        "title": "Fairs & Festivals",
+        "url": "https://foundation.rajasthan.gov.in/FairsandFestivals.aspx"
+      }
+    },
+    {
+      "name": "Marwar Festival",
+      "period": "Ashwin, generally September-October; dates vary annually",
+      "description": "Rajasthan Tourism describes the Marwar Festival in Jodhpur as a two-day festival featuring folk music and dance associated with the Marwar region and celebrations remembering the heroes of Rajasthan.",
+      "source": {
+        "organization": "Department of Tourism, Government of Rajasthan",
+        "department": "Rajasthan Tourism",
+        "title": "Marwar Festival",
+        "url": "https://www.tourism.rajasthan.gov.in/content/rajasthan-tourism/en/tourist-destinations/programme-jodhpur.html"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Ghoomar",
+      "description": "Ghoomar is a recognized Rajasthani dance tradition and is identified by the Rajasthan Foundation among the state's notable dance styles.",
+      "source": {
+        "organization": "Government of Rajasthan",
+        "department": "Rajasthan Foundation",
+        "title": "Heritage and Culture",
+        "url": "https://foundation.rajasthan.gov.in/HeritageCulture.aspx"
+      }
+    },
+    {
+      "name": "Kalbeliya",
+      "description": "Kalbeliya is a recognized Rajasthani dance style and is identified by the Rajasthan Foundation among the state's notable dance traditions.",
+      "source": {
+        "organization": "Government of Rajasthan",
+        "department": "Rajasthan Foundation",
+        "title": "Heritage and Culture",
+        "url": "https://foundation.rajasthan.gov.in/HeritageCulture.aspx"
+      }
+    },
+    {
+      "name": "Gair",
+      "description": "Gair is documented by Rajasthan Tourism as a folk dance performed during the Mount Abu Summer Festival.",
+      "source": {
+        "organization": "Department of Tourism, Government of Rajasthan",
+        "department": "Rajasthan Tourism",
+        "title": "Summer Festival – Mount Abu",
+        "url": "https://www.tourism.rajasthan.gov.in/travel-diaries/vikassthan.html"
+      }
+    },
+    {
+      "name": "Daph",
+      "description": "Daph is documented by Rajasthan Tourism among the folk dance styles presented during the Mount Abu Summer Festival.",
+      "source": {
+        "organization": "Department of Tourism, Government of Rajasthan",
+        "department": "Rajasthan Tourism",
+        "title": "Summer Festival – Mount Abu",
+        "url": "https://www.tourism.rajasthan.gov.in/travel-diaries/vikassthan.html"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Traditional Rajasthani attire",
+      "description": "Official Rajasthan Tourism material describes colourful traditional clothing, including women's long colourful skirts and odhnis and men's kurtas and turbans. Clothing varies by region, community, occasion, and individual.",
+      "source": {
+        "organization": "Department of Tourism, Government of Rajasthan",
+        "department": "Rajasthan Tourism",
+        "title": "People of Rajasthan",
+        "url": "https://www.tourism.rajasthan.gov.in/content/rajasthan-tourism/en/experience/travel-diaries/ruchikasthan.html"
+      }
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Folk music",
+      "description": "The Rajasthan Foundation identifies folk music as an important part of Rajasthani culture and notes its connection with everyday life and the desert environment.",
+      "source": {
+        "organization": "Government of Rajasthan",
+        "department": "Rajasthan Foundation",
+        "title": "Heritage and Culture",
+        "url": "https://foundation.rajasthan.gov.in/HeritageCulture.aspx"
+      }
+    },
+    {
+      "name": "Traditional artwork and crafts",
+      "description": "The Rajasthan Foundation documents colourful artwork, block prints, intricate furniture carving, textiles, semi-precious stones, and handicrafts as parts of Rajasthan's cultural heritage.",
+      "source": {
+        "organization": "Government of Rajasthan",
+        "department": "Rajasthan Foundation",
+        "title": "Heritage and Culture",
+        "url": "https://foundation.rajasthan.gov.in/HeritageCulture.aspx"
+      }
+    },
+    {
+      "name": "Puppetry",
+      "description": "Rajasthan Tourism documents puppetry shows as part of cultural programming, including at the Kumbhalgarh Festival.",
+      "source": {
+        "organization": "Department of Tourism, Government of Rajasthan",
+        "department": "Rajasthan Tourism",
+        "title": "Kumbhalgarh Festival",
+        "url": "https://www.tourism.rajasthan.gov.in/travel-diaries/irasthan.html"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Festival rituals",
+      "description": "Rajasthan Tourism documents a range of rites and rituals associated with important life events and festivals, including naming ceremonies, wedding rituals, and festival worship. These practices should be understood in their specific cultural and community contexts.",
+      "source": {
+        "organization": "Department of Tourism, Government of Rajasthan",
+        "department": "Rajasthan Tourism",
+        "title": "Customs and Rituals",
+        "url": "https://www.tourism.rajasthan.gov.in/customs.html"
+      }
+    },
+    {
+      "name": "Music and devotional traditions",
+      "description": "Rajasthan Tourism notes that folk music and dance vary by region and that many traditional songs have religious or devotional associations.",
+      "source": {
+        "organization": "Department of Tourism, Government of Rajasthan",
+        "department": "Rajasthan Tourism",
+        "title": "Customs and Rituals",
+        "url": "https://www.tourism.rajasthan.gov.in/customs.html"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "Treat local customs, religious practices, festivals, folk performances, and community celebrations with respect.",
+    "Do not assume a practice documented for one region or festival applies throughout Rajasthan.",
+    "Ask before photographing people or culturally significant activities when permission or local rules are unclear.",
+    "Respect traditional clothing, crafts, music, and dance as cultural heritage rather than treating them only as tourist entertainment.",
+    "Rajasthan has substantial regional variation in dialect, cuisine, dress, and cultural practices; avoid presenting one regional tradition as universal.",
+    "When attending a religious or cultural event, follow the guidance of local hosts, organizers, or venue authorities."
+  ],
+  "knowledge_limitations": [
+    "The verified knowledge base does not provide a sufficiently sourced everyday Rajasthani phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for all regions and communities.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for Rajasthan.",
+    "The verified knowledge base does not provide a comprehensive state-wide transportation etiquette guide.",
+    "Traditional clothing varies by region, community, gender, occasion, and individual; descriptions should not be converted into universal dress rules.",
+    "Festival dates vary from year to year according to calendars and local schedules; current dates should be checked against official festival information.",
+    "Customs and rituals described by official tourism sources may relate to particular communities or life events and should not be presented as practices followed by every Rajasthani person."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for Rajasthan-specific cultural claims.",
+    "Do not invent Rajasthani phrases or translations.",
+    "Use the festival information for festival-specific guidance and do not turn a local or community-specific practice into a universal Rajasthan-wide rule.",
+    "Use traditional_dances, traditional_clothing, traditional_arts, and spiritual_and_cultural_practices to explain documented heritage and customs.",
+    "Do not invent food customs, rental prices, housing recommendations, transportation rules, or religious practices that are not supported by this knowledge base.",
+    "Clearly state when a practice varies by region, community, religion, family, generation, or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so rather than guessing.",
+    "Personalize the guide using verified information, but do not introduce unsupported Rajasthan-specific factual claims."
+  ]
+}

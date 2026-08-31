@@ -1,0 +1,278 @@
+{
+  "state": "Mizoram",
+
+  "cultural_context": {
+    "description": "Mizo cultural heritage includes festivals, traditional dances, textiles, community values and customs.",
+    "important_note": "Culture, religion and customs can be closely connected, and practices can vary between communities, families, generations and local contexts.",
+    "source": {
+      "organization": "Government of Mizoram",
+      "department": "School Education Department",
+      "title": "Towards an Enlightened and Peaceful Society",
+      "url": "https://schooleducation.mizoram.gov.in/uploads/attachments/c059bc7e27e0d2bc7a99bce2084a79dc/erc-edited123.pdf"
+    }
+  },
+
+  "greetings_and_communication": {
+    "verified_information": [
+      {
+        "phrase": "Chibai",
+        "meaning": "A greeting used in official Mizo communication.",
+        "usage_note": "The word is used as a greeting in official messages from the Government of Mizoram.",
+        "source": {
+          "organization": "Lok Bhavan Mizoram",
+          "department": "Governor's Office",
+          "title": "Message of Hon’ble Governor General on the occasion of Independence Day, 2026",
+          "url": "https://rajbhavan.mizoram.gov.in/message-of-honble-governor-general-dr-vijay-kumar-singh-pvsm-avsm-ysm-retd-on-the-occasion-of-independence-day-2026/"
+        }
+      },
+      {
+        "phrase": "Chibai vek ula, in bula ka awm hi ka lawm em em a ni",
+        "meaning": "Greetings to everyone, I am extremely pleased to be amongst you.",
+        "usage_note": "This expression was used in a formal address delivered in Mizo.",
+        "source": {
+          "organization": "Lok Bhavan Mizoram",
+          "department": "Vice President's Address",
+          "title": "Vice President of India Shri M Venkaiah Naidu addresses Mizoram Legislative Assembly",
+          "url": "https://rajbhavan.mizoram.gov.in/address-of-honble-vice-president-shri-m-venkaiah-naidu-to-the-mizoram-legislative-assembly-on-his-second-day-of-mizoram-visit/"
+        }
+      }
+    ],
+
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "When participating in cultural activities, follow the guidance of local hosts or organizers.",
+      "Do not assume that one form of communication applies identically to every community or individual."
+    ]
+  },
+
+  "local_phrases": [
+    {
+      "phrase": "Chibai",
+      "meaning": "Greeting.",
+      "source": {
+        "organization": "Lok Bhavan Mizoram",
+        "department": "Governor's Office",
+        "title": "Message of Hon’ble Governor General on the occasion of Independence Day, 2026",
+        "url": "https://rajbhavan.mizoram.gov.in/message-of-honble-governor-general-dr-vijay-kumar-singh-pvsm-avsm-ysm-retd-on-the-occasion-of-independence-day-2026/"
+      }
+    },
+    {
+      "phrase": "Ka lawm e",
+      "meaning": "Thank you.",
+      "usage_note": "The expression appears in official Mizo-language messages following expressions of thanks.",
+      "source": {
+        "organization": "Lok Bhavan Mizoram",
+        "department": "Governor's Office",
+        "title": "Message of Dr. Hari Babu Kambhampati on Christmas 2024 and New Year 2025",
+        "url": "https://rajbhavan.mizoram.gov.in/message-of-dr-hari-babu-kambhampati-honble-governor-of-mizoram-on-the-occasion-of-christmas-2024-and-new-year-2025/"
+      }
+    }
+  ],
+
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Pawl Kut",
+        "description": "Community feasts are organised during Pawl Kut, a post-harvest festival celebrated during December-January.",
+        "source": {
+          "organization": "Government of Mizoram",
+          "department": "Directorate of Information & Public Relations",
+          "title": "Festivals",
+          "url": "https://dipr.mizoram.gov.in/page/festivals"
+        }
+      },
+      {
+        "context": "Chapchar Kut and Pawl Kut",
+        "description": "The official description of Mizoram's festivals records community participation, dances and food-related community practices during festival occasions.",
+        "source": {
+          "organization": "Government of Mizoram",
+          "department": "Directorate of Information & Public Relations",
+          "title": "Festivals",
+          "url": "https://dipr.mizoram.gov.in/page/festivals"
+        }
+      }
+    ],
+
+    "dining_guidance": [
+      "Festival meals and community feasts can form part of cultural celebrations.",
+      "When invited to a cultural or community meal, follow the guidance of local hosts.",
+      "Do not assume that a festival-related food practice applies to everyday dining or to every community."
+    ],
+
+    "limitation": "The current verified knowledge base does not provide a sufficiently detailed guide to everyday Mizo food preferences or universal everyday dining etiquette. Such information should not be invented."
+  },
+
+  "core_values": [
+    {
+      "name": "Tlawmngaihna",
+      "description": "A Mizo ethical value associated with being hospitable, kind, unselfish and helpful to people in need.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "School Education Department",
+        "title": "Towards an Enlightened and Peaceful Society",
+        "url": "https://schooleducation.mizoram.gov.in/uploads/attachments/c059bc7e27e0d2bc7a99bce2084a79dc/erc-edited123.pdf"
+      }
+    }
+  ],
+
+  "festivals": [
+    {
+      "name": "Chapchar Kut",
+      "period": "Spring",
+      "description": "A major Mizo festival celebrated during spring after jhum cutting is completed. The festival includes community participation, colourful dress, dancing and cultural activities.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "Directorate of Information & Public Relations",
+        "title": "Festivals",
+        "url": "https://dipr.mizoram.gov.in/page/festivals"
+      }
+    },
+
+    {
+      "name": "Mim Kut",
+      "period": "August-September",
+      "description": "A major festival associated with the maize harvest and dedicated to the memory of deceased relatives, with an emphasis on thanksgiving and remembrance. The official description notes that the first harvest is placed as an offering on a raised platform built to the memory of the dead.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "Directorate of Information & Public Relations",
+        "title": "Festivals",
+        "url": "https://dipr.mizoram.gov.in/page/festivals"
+      }
+    },
+
+    {
+      "name": "Pawl Kut",
+      "period": "December-January",
+      "description": "A post-harvest festival associated with thanksgiving, community feasts and dances.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "Directorate of Information & Public Relations",
+        "title": "Festivals",
+        "url": "https://dipr.mizoram.gov.in/page/festivals"
+      }
+    }
+  ],
+
+  "traditional_dances": [
+    {
+      "name": "Cheraw",
+      "description": "A traditional Mizo bamboo dance.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "School Education Department",
+        "title": "Towards an Enlightened and Peaceful Society",
+        "url": "https://schooleducation.mizoram.gov.in/uploads/attachments/c059bc7e27e0d2bc7a99bce2084a79dc/erc-edited123.pdf"
+      }
+    },
+
+    {
+      "name": "Khuallam",
+      "description": "A traditional dance associated with visitors or guests.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "School Education Department",
+        "title": "Towards an Enlightened and Peaceful Society",
+        "url": "https://schooleducation.mizoram.gov.in/uploads/attachments/c059bc7e27e0d2bc7a99bce2084a79dc/erc-edited123.pdf"
+      }
+    },
+
+    {
+      "name": "Chheih Lam",
+      "description": "A traditional Mizo dance.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "School Education Department",
+        "title": "Towards an Enlightened and Peaceful Society",
+        "url": "https://schooleducation.mizoram.gov.in/uploads/attachments/c059bc7e27e0d2bc7a99bce2084a79dc/erc-edited123.pdf"
+      }
+    }
+  ],
+
+  "traditional_clothing": [
+    {
+      "name": "Puanchei",
+      "description": "A traditional Mizo puan documented by the Mizoram Art & Culture Department. The department's notification identifies Puanchei as a prominent Mizo traditional textile and describes its use on important occasions.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "Art & Culture Department",
+        "title": "G.I. Puan Panga",
+        "url": "https://mizoculture.mizoram.gov.in/uploads/attachments/2022/07/45551171fb9538fe5fbb1597813ab5dc/posts-102-geographical-indication-of-mizo-puan.pdf"
+      }
+    },
+
+    {
+      "name": "Pawndum",
+      "description": "A traditional Mizo puan documented by the Mizoram Art & Culture Department.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "Art & Culture Department",
+        "title": "G.I. Puan Panga",
+        "url": "https://mizoculture.mizoram.gov.in/uploads/attachments/2022/07/45551171fb9538fe5fbb1597813ab5dc/posts-102-geographical-indication-of-mizo-puan.pdf"
+      }
+    },
+
+    {
+      "name": "Ngotekherh",
+      "description": "A traditional Mizo puan documented by the Mizoram Art & Culture Department.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "Art & Culture Department",
+        "title": "G.I. Puan Panga",
+        "url": "https://mizoculture.mizoram.gov.in/uploads/attachments/2022/07/45551171fb9538fe5fbb1597813ab5dc/posts-102-geographical-indication-of-mizo-puan.pdf"
+      }
+    },
+
+    {
+      "name": "Hmaram",
+      "description": "A traditional Mizo puan documented by the Mizoram Art & Culture Department.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "Art & Culture Department",
+        "title": "G.I. Puan Panga",
+        "url": "https://mizoculture.mizoram.gov.in/uploads/attachments/2022/07/45551171fb9538fe5fbb1597813ab5dc/posts-102-geographical-indication-of-mizo-puan.pdf"
+      }
+    },
+
+    {
+      "name": "Tawlhlohpuan",
+      "description": "A traditional Mizo puan documented by the Mizoram Art & Culture Department.",
+      "source": {
+        "organization": "Government of Mizoram",
+        "department": "Art & Culture Department",
+        "title": "G.I. Puan Panga",
+        "url": "https://mizoculture.mizoram.gov.in/uploads/attachments/2022/07/45551171fb9538fe5fbb1597813ab5dc/posts-102-geographical-indication-of-mizo-puan.pdf"
+      }
+    }
+  ],
+
+  "visitor_guidance": [
+    "Treat local cultural practices with respect.",
+    "Do not assume that a practice applies universally to every person in Mizoram.",
+    "When participating in cultural activities, follow the guidance of local hosts or organizers.",
+    "Traditional cultural heritage should be treated respectfully.",
+    "Respectful communication is important when interacting with local communities.",
+    "When attending community celebrations or cultural events, follow the guidance of hosts and organizers."
+  ],
+
+  "knowledge_limitations": [
+    "The verified knowledge base contains only a limited number of documented everyday Mizo phrases and should not be treated as a complete phrasebook.",
+    "The verified knowledge base does not provide a comprehensive guide to everyday Mizo food and dining etiquette.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for Aizawl.",
+    "The verified knowledge base does not provide detailed local transportation guidance.",
+    "The verified knowledge base does not provide enough information to make universal claims about religious or spiritual behavior."
+  ],
+
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for destination-specific cultural claims.",
+    "Use the greetings_and_communication section for verified communication information.",
+    "Use the local_phrases section for verified Mizo phrases.",
+    "Use the food_and_dining section only for the specific food and community-meal practices documented by the sources.",
+    "Do not turn festival-specific food practices into universal everyday dining rules.",
+    "Do not invent additional Mizo greetings, phrases or translations.",
+    "Do not invent food customs or dining etiquette.",
+    "Do not present information as universal when the source does not establish it as universal.",
+    "Clearly communicate when information may vary by community, family, generation or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so instead of guessing.",
+    "Gemini may personalize and explain the verified information, but must not introduce unsupported destination-specific factual claims."
+  ]
+}

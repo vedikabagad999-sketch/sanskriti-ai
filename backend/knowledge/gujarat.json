@@ -1,0 +1,265 @@
+{
+  "state": "Gujarat",
+  "cultural_context": {
+    "description": "Gujarat has a diverse cultural heritage shaped by regional traditions, folk music and dance, festivals and fairs, crafts, cuisine, religious traditions, and a long history of cultural exchange.",
+    "important_note": "Cultural practices vary across regions, communities, religions, families, generations, and individual contexts. Information in this file should not be treated as universal to every person in Gujarat.",
+    "source": {
+      "organization": "Gujarat Tourism",
+      "title": "About Gujarat",
+      "url": "https://gujarattourism.com/about-gujarat.html"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [],
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "Gujarat contains multiple communities and regional traditions, so do not assume that one communication style represents everyone.",
+      "When participating in a cultural, religious, or community event, follow the guidance of local hosts or organizers."
+    ],
+    "limitation": "The current verified knowledge base does not contain a sufficiently sourced everyday Gujarati phrase list. Do not invent Gujarati phrases or translations."
+  },
+  "local_phrases": [],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Culinary diversity",
+        "description": "Gujarat Tourism describes the state as having a varied culture shaped by migration and cultural exchange, including diverse cuisines alongside ritual practices, dress, fairs, and festivals.",
+        "source": {
+          "organization": "Gujarat Tourism",
+          "title": "About Gujarat",
+          "url": "https://gujarattourism.com/about-gujarat.html"
+        }
+      },
+      {
+        "context": "Festival food",
+        "description": "Official Gujarat cultural material documents traditional food as part of fairs and festivals, including food stalls and festival gatherings.",
+        "source": {
+          "organization": "Gujarat Tourism",
+          "title": "Gujarat Festivals Brochure",
+          "url": "https://www.gujarattourism.com/content/dam/gujrattourism/images/ebroucher/Gujarat%20brochures_Festivals.pdf"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Do not assume one Gujarati cuisine represents the entire state.",
+      "Food practices can vary between communities and regions.",
+      "Respect individual dietary choices and follow local hosts' guidance at community meals or festivals."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every region and community in Gujarat."
+  },
+  "core_values": [
+    {
+      "name": "Cultural diversity",
+      "description": "Gujarat Tourism describes the state as a melting pot of culture, people, places, and history, with migration contributing to varied ritual practices, cuisines, dress, fairs, festivals, and celebrations.",
+      "source": {
+        "organization": "Gujarat Tourism",
+        "title": "About Gujarat",
+        "url": "https://gujarattourism.com/about-gujarat.html"
+      }
+    },
+    {
+      "name": "Community celebration",
+      "description": "Official Gujarat sources describe festivals and fairs as occasions involving music, dance, food, religious observance, and gatherings of communities and visitors.",
+      "source": {
+        "organization": "Gujarat Tourism",
+        "title": "Gujarat Festivals Brochure",
+        "url": "https://www.gujarattourism.com/content/dam/gujrattourism/images/ebroucher/Gujarat%20brochures_Festivals.pdf"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Navratri",
+      "period": "Nine-night festival; dates vary annually",
+      "description": "Navratri is especially prominent in Gujarat and is associated with nine nights of singing and dancing. Official Gujarat sources document Garba and Raas, traditional clothing, devotional music, and participation across cities and towns.",
+      "source": {
+        "organization": "Gujarat Tourism",
+        "title": "Welcome to Gujarat Tourism",
+        "url": "https://gujarattourism.com/gj"
+      }
+    },
+    {
+      "name": "International Kite Festival / Uttarayan",
+      "period": "January; exact event dates vary annually",
+      "description": "Kite flying is a major part of Gujarat's Uttarayan celebrations, and Gujarat Tourism lists the International Kite Festival among the state's recognized festivals.",
+      "source": {
+        "organization": "Gujarat Tourism",
+        "title": "Fairs and Festivals of Gujarat",
+        "url": "https://gujarattourism.com/fair-and-festival.html"
+      }
+    },
+    {
+      "name": "Tarnetar Fair",
+      "period": "Usually August-September; dates vary annually",
+      "description": "The Tarnetar Fair is associated with folk dance, music, traditional costumes, crafts, and community celebration. Gujarat Tourism documents Raas among the dances performed at the fair.",
+      "source": {
+        "organization": "Gujarat Tourism",
+        "title": "Tarnetar Fair",
+        "url": "https://gujarattourism.com/fair-and-festival/tarnetar-fair.html"
+      }
+    },
+    {
+      "name": "Shamlaji Fair",
+      "period": "Dates vary annually",
+      "description": "The Shamlaji Mela attracts devotees and visitors and includes devotional songs, religious observance, folk dance, traditional dress, and community gatherings.",
+      "source": {
+        "organization": "Government of Gujarat",
+        "department": "NRI Division",
+        "title": "Shamlaji Mela",
+        "url": "https://nri.gujarat.gov.in/home/ShamlajiMela"
+      }
+    },
+    {
+      "name": "Dang Darbar",
+      "period": "Usually March-April, shortly before Holi",
+      "description": "Dang Darbar is held at Ahwa in the Dang district and continues a historical tradition of gatherings of local rulers and village heads. Gujarat Tourism documents tribal dances, music, traditional clothing, and participation by tribal communities.",
+      "source": {
+        "organization": "Gujarat Tourism",
+        "title": "Dang Darbar",
+        "url": "https://gujarattourism.com/fair-and-festival/dang-darbar.html"
+      }
+    },
+    {
+      "name": "Mahashivratri Mela",
+      "period": "Usually February-March; dates vary annually",
+      "description": "The Girnar Mahashivratri Mela is held at Bhavnath Mahadev Temple near Junagadh and is associated with pilgrimage, worship, saints, devotional activity, and religious rituals.",
+      "source": {
+        "organization": "Gujarat Tourism",
+        "title": "Mahashivratri Mela",
+        "url": "https://gujarattourism.com/fair-and-festival/mahashivratri-mela.html"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Garba",
+      "description": "Garba is a major Gujarati folk dance tradition strongly associated with Navratri and is documented by official Gujarat sources as a widespread festival practice.",
+      "source": {
+        "organization": "Government of Gujarat",
+        "department": "NRI Division",
+        "title": "Dance and Music",
+        "url": "https://nri.gujarat.gov.in/home/dancemusic"
+      }
+    },
+    {
+      "name": "Raas",
+      "description": "Raas is a traditional Gujarati dance form documented by official Gujarat sources, including its performance during Navratri and at the Tarnetar Fair.",
+      "source": {
+        "organization": "Government of Gujarat",
+        "department": "NRI Division",
+        "title": "Dance and Music",
+        "url": "https://nri.gujarat.gov.in/home/dancemusic"
+      }
+    },
+    {
+      "name": "Rasada",
+      "description": "Rasada is documented among folk dances performed at the Shamlaji Mela, where large groups may dance in circular formations.",
+      "source": {
+        "organization": "Government of Gujarat",
+        "department": "NRI Division",
+        "title": "Shamlaji Mela",
+        "url": "https://nri.gujarat.gov.in/home/ShamlajiMela"
+      }
+    },
+    {
+      "name": "Tribal dances of the Dang region",
+      "description": "Gujarat Tourism documents tribal dance traditions at Dang Darbar, including circular group movement accompanied by percussion and wind instruments.",
+      "source": {
+        "organization": "Gujarat Tourism",
+        "title": "Dang Darbar",
+        "url": "https://gujarattourism.com/fair-and-festival/dang-darbar.html"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Traditional Gujarati attire",
+      "description": "Official Gujarat sources document colourful traditional clothing and distinctive community attire at fairs and festivals. Clothing varies by community, region, occasion, and individual.",
+      "source": {
+        "organization": "Government of Gujarat",
+        "department": "NRI Division",
+        "title": "Chitra Vichitra Mela",
+        "url": "https://nri.gujarat.gov.in/home/chitravichitramela"
+      }
+    },
+    {
+      "name": "Traditional attire at Navratri",
+      "description": "Official Gujarat cultural material describes traditional wear as part of Navratri celebrations alongside singing and dancing.",
+      "source": {
+        "organization": "Government of Gujarat",
+        "department": "NRI Division",
+        "title": "Dance and Music",
+        "url": "https://nri.gujarat.gov.in/home/dancemusic"
+      }
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Folk music",
+      "description": "Gujarat's official cultural material identifies folk songs, classical music, and distinctive musical traditions as important parts of the state's cultural life. Communities including Charans and Gadhavis are documented as having hereditary connections with folk music and arts.",
+      "source": {
+        "organization": "Government of Gujarat",
+        "department": "NRI Division",
+        "title": "Dance and Music",
+        "url": "https://nri.gujarat.gov.in/home/dancemusic"
+      }
+    },
+    {
+      "name": "Traditional crafts and embroidery",
+      "description": "Official Gujarat Tourism material documents handicrafts, ethnic jewellery, traditional attire, and embroidered textiles with mirror work at fairs such as Tarnetar.",
+      "source": {
+        "organization": "Gujarat Tourism",
+        "title": "Tarnetar Fair",
+        "url": "https://gujarattourism.com/fair-and-festival/tarnetar-fair.html"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Navratri devotional traditions",
+      "description": "Official Gujarat sources associate Navratri singing and dancing with devotional worship of the feminine divine and document Garba and Raas as part of the celebration.",
+      "source": {
+        "organization": "Government of Gujarat",
+        "department": "NRI Division",
+        "title": "Dance and Music",
+        "url": "https://nri.gujarat.gov.in/home/dancemusic"
+      }
+    },
+    {
+      "name": "Devotional fairs and pilgrimage",
+      "description": "Gujarat's fairs include religious gatherings such as Shamlaji Mela and Mahashivratri Mela, where devotees participate in worship, devotional music, and ritual activities.",
+      "source": {
+        "organization": "Gujarat Tourism",
+        "title": "Fairs and Festivals of Gujarat",
+        "url": "https://gujarattourism.com/fair-and-festival.html"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "Treat local customs, religious practices, festivals, folk performances, and community celebrations with respect.",
+    "Do not assume a practice documented at one festival, district, or community applies throughout Gujarat.",
+    "Ask before photographing people, religious rituals, or culturally significant activities when permission or local rules are unclear.",
+    "Respect traditional clothing, crafts, music, and dance as cultural heritage rather than treating them only as tourist entertainment.",
+    "Gujarat has substantial regional and community diversity; avoid presenting one festival, cuisine, dress style, or dance as representative of everyone.",
+    "When attending a religious or cultural event, follow the guidance of local hosts, organizers, or venue authorities."
+  ],
+  "knowledge_limitations": [
+    "The verified knowledge base does not provide a sufficiently sourced everyday Gujarati phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for all regions and communities.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for Gujarat.",
+    "The verified knowledge base does not provide a comprehensive state-wide transportation etiquette guide.",
+    "Traditional clothing varies by region, community, occasion, and individual; descriptions should not be converted into universal dress rules.",
+    "Festival dates vary annually; current dates should be checked against official Gujarat Tourism information.",
+    "Descriptions of tribal and community-specific traditions should not be generalized to all residents of Gujarat."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for Gujarat-specific cultural claims.",
+    "Do not invent Gujarati phrases or translations.",
+    "Use festival information for festival-specific guidance and do not turn a local or community-specific practice into a universal Gujarat-wide rule.",
+    "Use traditional_dances, traditional_clothing, traditional_arts, and spiritual_and_cultural_practices to explain documented heritage and customs.",
+    "Do not invent food customs, rental prices, housing recommendations, transportation rules, or religious practices that are not supported by this knowledge base.",
+    "Clearly state when a practice varies by region, community, religion, family, generation, or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so rather than guessing.",
+    "Personalize the guide using verified information, but do not introduce unsupported Gujarat-specific factual claims."
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "state": "Karnataka",
+  "cultural_context": {
+    "description": "Karnataka has a diverse cultural heritage expressed through classical and folk arts, regional festivals, temple traditions, music, dance, cuisine, crafts, literature, and distinct cultural traditions across southern, northern, and coastal parts of the state.",
+    "important_note": "Cultural practices vary across regions, communities, religions, families, generations, and individual contexts. Information in this file should not be treated as universal to every person in Karnataka.",
+    "source": {
+      "organization": "Department of Tourism, Government of Karnataka",
+      "title": "Festivals, Fairs & Cultural Events",
+      "url": "https://karnatakatourism.org/en/events/"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [],
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "Karnataka has substantial regional and linguistic diversity, so do not assume that one communication style represents everyone.",
+      "When participating in a cultural, religious, or community event, follow the guidance of local hosts, organizers, or the relevant venue."
+    ],
+    "limitation": "The current verified knowledge base does not contain a sufficiently sourced everyday Kannada phrase list. Do not invent Kannada phrases or translations."
+  },
+  "local_phrases": [],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Culinary diversity",
+        "description": "Karnataka Tourism treats food and culinary experiences as a distinct part of the state's tourism and cultural heritage, alongside regional traditions and festivals.",
+        "source": {
+          "organization": "Department of Tourism, Government of Karnataka",
+          "title": "Karnataka Tourism",
+          "url": "https://karnatakatourism.org/en/"
+        }
+      },
+      {
+        "context": "Festival cuisine",
+        "description": "Karnataka Tourism describes festivals and cultural events as bringing communities together through music, dance, cuisine, and processions.",
+        "source": {
+          "organization": "Department of Tourism, Government of Karnataka",
+          "title": "Festivals, Fairs & Cultural Events",
+          "url": "https://karnatakatourism.org/en/events/"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Do not assume one Karnataka dish or food tradition represents the entire state.",
+      "Food practices can differ between southern, northern, coastal, urban, rural, religious, and community contexts.",
+      "Respect individual dietary choices and follow local hosts' guidance at traditional meals or community events."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every region and community in Karnataka."
+  },
+  "core_values": [
+    {
+      "name": "Regional cultural diversity",
+      "description": "Karnataka Tourism organizes cultural information across different regional traditions, including coastal Karnataka, north Karnataka, and south Karnataka, reflecting significant regional variation.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Festivals",
+        "url": "https://old.karnatakatourism.org/tour-item/festivals/"
+      }
+    },
+    {
+      "name": "Community and cultural continuity",
+      "description": "Karnataka Tourism describes festivals and cultural events as expressions of deep-rooted traditions, religious diversity, regional pride, and community participation.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Festivals, Fairs & Cultural Events",
+        "url": "https://karnatakatourism.org/en/events/"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Mysuru Dasara",
+      "period": "Usually September-October; dates vary annually",
+      "description": "Mysuru Dasara is a major Karnataka festival. Karnataka Tourism describes it as a prominent cultural celebration and lists it among the state's major events.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Festivals, Fairs & Cultural Events",
+        "url": "https://karnatakatourism.org/en/events/"
+      }
+    },
+    {
+      "name": "Ugadi",
+      "period": "Usually March-April; date varies annually",
+      "description": "Ugadi is identified by Karnataka Tourism as the Kannada New Year and is associated with the beginning of spring and auspicious rituals.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Festivals, Fairs & Cultural Events",
+        "url": "https://karnatakatourism.org/en/events/"
+      }
+    },
+    {
+      "name": "Hampi Utsava",
+      "period": "Dates vary annually",
+      "description": "Hampi Utsava is a cultural festival held around the heritage landscape of Hampi, featuring cultural performances and celebrating the region's historical heritage.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Festivals, Fairs & Cultural Events",
+        "url": "https://karnatakatourism.org/en/events/"
+      }
+    },
+    {
+      "name": "Pattadakal Dance Festival",
+      "period": "Dates vary annually",
+      "description": "The Pattadakal Dance Festival features classical dance performances in the setting of Pattadakal's historic temple architecture.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Festivals, Fairs & Cultural Events",
+        "url": "https://karnatakatourism.org/en/events/"
+      }
+    },
+    {
+      "name": "Kambala",
+      "period": "Season varies; dates are event-specific",
+      "description": "Kambala is a traditional buffalo-racing event associated particularly with coastal Karnataka. Karnataka Tourism lists Kambala among the region's cultural and village-fair traditions.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Festivals, Fairs & Cultural Events",
+        "url": "https://karnatakatourism.org/en/events/"
+      }
+    },
+    {
+      "name": "Udupi Paryaya",
+      "period": "Dates vary according to the traditional cycle",
+      "description": "Udupi Paryaya is listed by Karnataka Tourism among important cultural and religious festivals of the coastal Karnataka region.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Festivals",
+        "url": "https://old.karnatakatourism.org/tour-item/festivals/"
+      }
+    },
+    {
+      "name": "Kannada Rajyotsava",
+      "period": "November 1 annually",
+      "description": "Kannada Rajyotsava is listed by Karnataka Tourism as a state-level celebration associated with Karnataka and Kannada identity.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Karnataka Tourism",
+        "url": "https://karnatakatourism.org/en/"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Yakshagana",
+      "description": "Yakshagana is a folk theatre tradition from coastal Karnataka combining dance, music, elaborate costumes, and storytelling, often with mythological themes.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Karnataka Culture",
+        "url": "https://karnatakatourism.org/karnataka-culture/"
+      }
+    },
+    {
+      "name": "Dollu Kunitha",
+      "description": "Dollu Kunitha is a rhythmic drum dance associated with Karnataka. Government material describes it as connected with worship of Sree Beeralingeshwara and the ritual traditions of the Kuruba Gowda community.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Karnataka’s Classical and Folk Traditions Mesmerize Audience at Bharat Parv 2026",
+        "url": "https://tourism.gov.in/sites/default/files/2026-02/Karnataka%E2%80%99s%20Classical%20and%20Folk%20Traditions%20Mesmerize%20Audience%20at%20Bharat%20Parv%202026.pdf"
+      }
+    },
+    {
+      "name": "Pooja Kunitha",
+      "description": "Pooja Kunitha is a ritualistic folk dance tradition from southern Karnataka, particularly associated with the Mandya, Mysuru, and Bengaluru regions, and is performed in devotion to Goddess Shakti.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Karnataka’s Classical and Folk Traditions Mesmerize Audience at Bharat Parv 2026",
+        "url": "https://tourism.gov.in/sites/default/files/2026-02/Karnataka%E2%80%99s%20Classical%20and%20Folk%20Traditions%20Mesmerize%20Audience%20at%20Bharat%20Parv%202026.pdf"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Traditional Karnataka attire",
+      "description": "Traditional clothing is part of Karnataka's cultural celebrations and regional traditions. Clothing differs by region, community, religion, occasion, and individual preference.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Karnataka Culture",
+        "url": "https://karnatakatourism.org/karnataka-culture/"
+      }
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Yakshagana theatre",
+      "description": "Yakshagana combines dance, music, elaborate costumes, expressions, and storytelling and is particularly associated with coastal Karnataka.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Karnataka Culture",
+        "url": "https://karnatakatourism.org/karnataka-culture/"
+      }
+    },
+    {
+      "name": "Folk music and performance traditions",
+      "description": "Karnataka Tourism and the Government of Karnataka document diverse classical and folk performances as important parts of the state's cultural heritage.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Karnataka’s Classical and Folk Traditions Mesmerize Audience at Bharat Parv 2026",
+        "url": "https://tourism.gov.in/sites/default/files/2026-02/Karnataka%E2%80%99s%20Classical%20and%20Folk%20Traditions%20Mesmerize%20Audience%20at%20Bharat%20Parv%202026.pdf"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Temple and ritual traditions",
+      "description": "Karnataka Tourism documents numerous festivals and cultural practices connected with temple traditions and religious observances, including Udupi Paryaya, Vairamudi Festival, Bhoota Kola, and other regional celebrations.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Festivals",
+        "url": "https://old.karnatakatourism.org/tour-item/festivals/"
+      }
+    },
+    {
+      "name": "Bhoota Kola",
+      "description": "Bhoota Kola, also called Bhootha Aradhane, is listed by Karnataka Tourism among the traditional cultural practices of coastal Karnataka. It has ritual and religious significance and should not be treated as ordinary entertainment.",
+      "source": {
+        "organization": "Department of Tourism, Government of Karnataka",
+        "title": "Festivals",
+        "url": "https://old.karnatakatourism.org/tour-item/festivals/"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "Treat local customs, religious practices, festivals, folk performances, and community celebrations with respect.",
+    "Do not assume that a practice documented in coastal, northern, or southern Karnataka applies to the entire state.",
+    "Ask before photographing people, ritual performers, religious ceremonies, or culturally significant activities when permission or local rules are unclear.",
+    "When entering temples or other sacred spaces, follow the venue's instructions regarding clothing, footwear, photography, and behavior.",
+    "Do not treat ritual traditions such as Bhoota Kola or devotional folk performances simply as entertainment.",
+    "Respect the distinction between cultural performances presented for visitors and rituals that remain part of community religious practice.",
+    "Karnataka Tourism emphasizes experiencing the state's living culture through festivals, food, arts, music, and community traditions rather than viewing heritage only as monuments."
+  ],
+  "knowledge_limitations": [
+    "The verified knowledge base does not provide a sufficiently sourced everyday Kannada phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for all regions and communities.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for Karnataka.",
+    "The verified knowledge base does not provide a comprehensive state-wide transportation etiquette guide.",
+    "Traditional clothing varies by region, community, religion, occasion, and individual; descriptions should not be converted into universal dress rules.",
+    "Festival dates vary annually or according to traditional calendars; current dates should be checked with official Karnataka Tourism information.",
+    "Descriptions of community-specific ritual traditions should not be generalized to all residents of Karnataka."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for Karnataka-specific cultural claims.",
+    "Do not invent Kannada phrases or translations.",
+    "Use festival information for festival-specific guidance and do not turn a local or community-specific practice into a universal Karnataka-wide rule.",
+    "Use traditional_dances, traditional_clothing, traditional_arts, and spiritual_and_cultural_practices to explain documented heritage and customs.",
+    "Do not invent food customs, rental prices, housing recommendations, transportation rules, or religious practices that are not supported by this knowledge base.",
+    "Clearly state when a practice varies by region, community, religion, family, generation, or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so rather than guessing.",
+    "Personalize the guide using verified information, but do not introduce unsupported Karnataka-specific factual claims."
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "state": "Goa",
+  "cultural_context": {
+    "description": "Goa has a diverse cultural heritage shaped by local traditions, religious and community celebrations, folk arts, music and dance, cuisine, crafts, and its long historical interaction between Indian and Portuguese cultural influences.",
+    "important_note": "Cultural practices vary between communities, villages, religions, families, generations, and individual contexts. Information in this file should not be treated as universal to every person in Goa.",
+    "source": {
+      "organization": "Department of Tourism, Government of Goa",
+      "title": "Department of Tourism",
+      "url": "https://goatourism.gov.in/"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [],
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "Goa has diverse linguistic, religious, and community traditions, so do not assume one communication style represents everyone.",
+      "When participating in a cultural or religious event, follow the guidance of local hosts, organizers, or the relevant venue."
+    ],
+    "limitation": "The current verified knowledge base does not contain a sufficiently sourced everyday Konkani phrase list. Do not invent Konkani phrases or translations."
+  },
+  "local_phrases": [],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Goan culinary heritage",
+        "description": "Goa Tourism describes Goan cuisine as an important part of the state's cultural identity and highlights traditional Goan cuisine, local produce, and cross-cultural culinary influences.",
+        "source": {
+          "organization": "Department of Tourism, Government of Goa",
+          "title": "Goa Monsoon On A Plate",
+          "url": "https://goatourism.gov.in/goa_monsoon_on_a_plate/"
+        }
+      },
+      {
+        "context": "Festival food",
+        "description": "Official Goa Tourism material documents traditional Goan cuisine as part of community festivals and cultural celebrations.",
+        "source": {
+          "organization": "Department of Tourism, Government of Goa",
+          "title": "Bonderam Festival 2025",
+          "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/updated-Newsletter-August-2025.pdf"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Do not assume one Goan dish or food tradition represents every community in Goa.",
+      "Culinary practices can vary according to community, region, religion, family tradition, and individual preference.",
+      "Respect individual dietary choices and follow local hosts' guidance at community meals and festivals."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every community and region in Goa."
+  },
+  "core_values": [
+    {
+      "name": "Community participation",
+      "description": "Goa Tourism describes local festivals and community-led experiences as important ways for visitors to engage with Goa's cultural and social fabric.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "#LiveTheFeeling: experiencing Goa beyond sightseeing",
+        "url": "https://goatourism.gov.in/blog-list/livethefeeling-experiencing-goa-beyond-sightseeing/"
+      }
+    },
+    {
+      "name": "Responsible cultural engagement",
+      "description": "Goa Tourism's recent tourism initiatives encourage visitors to engage with local traditions, communities, traditional skills, and local livelihoods while respecting Goa's cultural identity.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "#LiveTheFeeling: experiencing Goa beyond sightseeing",
+        "url": "https://goatourism.gov.in/blog-list/livethefeeling-experiencing-goa-beyond-sightseeing/"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Goa Carnival",
+      "period": "Usually February-March; dates vary annually",
+      "description": "Goa Carnival is a major state festival featuring colourful celebrations, music, movement, cultural performances, and community participation.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Goa Carnaval 2026",
+        "url": "https://goatourism.gov.in/blog-list/goa-carnaval-2026-concludes-on-a-grand-note-across-the-state-drawing-enthusiastic-crowds-global-attention/"
+      }
+    },
+    {
+      "name": "Shigmo",
+      "period": "Usually February-March; dates vary annually",
+      "description": "Shigmo is Goa's spring festival and is associated with folk dances, music, processions, and community celebrations.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Citizen Charter 2025",
+        "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/Citizen-Charter-2025.pdf"
+      }
+    },
+    {
+      "name": "Sao Joao",
+      "period": "June 24 annually",
+      "description": "Sao Joao is listed by the Department of Tourism among Goa's traditional festivals and is associated with local community celebration during the monsoon period.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Citizen Charter 2025",
+        "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/Citizen-Charter-2025.pdf"
+      }
+    },
+    {
+      "name": "Chikhal Kalo",
+      "period": "June; exact event dates vary",
+      "description": "Chikhal Kalo is a traditional festival at the Devki Krishna Temple in Marcel involving devotional celebrations, folk performances, traditional games, food, and the distinctive tradition of playing in mud.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Chikhal Kalo",
+        "url": "https://goatourism.gov.in/chikhal-kalo/"
+      }
+    },
+    {
+      "name": "Bonderam",
+      "period": "Usually August; date varies annually",
+      "description": "Bonderam is a traditional festival on Divar Island featuring flag parades, floats, folk performances, community participation, and Goan cuisine.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Goa Tourism Newsletter – August 2025",
+        "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/updated-Newsletter-August-2025.pdf"
+      }
+    },
+    {
+      "name": "Narkasur celebrations",
+      "period": "Around Diwali; date varies annually",
+      "description": "Goa Tourism documents Narkasur parades in many parts of Goa on the eve of Diwali, involving creatively built effigies and their burning at dawn as part of the celebration.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Year-end celebrations in Goa",
+        "url": "https://goatourism.gov.in/blog-list/experience-goa-with-exciting-year-end-celebrations/"
+      }
+    },
+    {
+      "name": "Feast of St. Francis Xavier",
+      "period": "December 3 annually",
+      "description": "The Feast of St. Francis Xavier is celebrated at the Basilica of Bom Jesus in Old Goa, preceded by a nine-day novena and attended by pilgrims.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Year-end celebrations in Goa",
+        "url": "https://goatourism.gov.in/blog-list/experience-goa-with-exciting-year-end-celebrations/"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Bhandap",
+      "description": "Bhandap is documented as a traditional folk dance performed by women of a Scheduled Tribe community in Goa.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Goa Tourist Directory – Cultural Heritage of Goa",
+        "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/Goa-Tourist-Directory-2019.pdf"
+      }
+    },
+    {
+      "name": "Dekhni",
+      "description": "Dekhni is documented in official Goa tourism material as a dance performed by women that combines Indian and Western rhythmic elements.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Goa Tourist Directory – Cultural Heritage of Goa",
+        "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/Goa-Tourist-Directory-2019.pdf"
+      }
+    },
+    {
+      "name": "Dhangar Dance",
+      "description": "Dhangar Dance is documented as a worship-oriented dance tradition associated with the Navratra period.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Goa Tourist Directory – Cultural Heritage of Goa",
+        "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/Goa-Tourist-Directory-2019.pdf"
+      }
+    },
+    {
+      "name": "Corredinho",
+      "description": "Corredinho is documented as a Portuguese-influenced Goan folk dance.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Goa Tourist Directory – Cultural Heritage of Goa",
+        "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/Goa-Tourist-Directory-2019.pdf"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Traditional Goan attire",
+      "description": "Traditional clothing forms part of Goa's cultural and community celebrations. Clothing practices vary by community, religion, occasion, locality, and individual preference.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Goa Tourist Directory – Cultural Heritage of Goa",
+        "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/Goa-Tourist-Directory-2019.pdf"
+      }
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Folk music and performances",
+      "description": "Official Goa Tourism material identifies folk music and cultural performances as important parts of local festivals and community celebrations.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Citizen Charter 2025",
+        "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/Citizen-Charter-2025.pdf"
+      }
+    },
+    {
+      "name": "Traditional crafts",
+      "description": "Goa Tourism identifies handicraft markets, traditional skills, pottery, cooking, crafts, and village-based experiences as part of Goa's cultural heritage and responsible tourism offerings.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "#LiveTheFeeling: experiencing Goa beyond sightseeing",
+        "url": "https://goatourism.gov.in/blog-list/livethefeeling-experiencing-goa-beyond-sightseeing/"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Temple and church traditions",
+      "description": "Goa's official tourism material documents festivals and heritage connected with both temples and churches, reflecting the state's diverse religious and cultural landscape.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Goa Tourist Directory – Cultural Heritage of Goa",
+        "url": "https://goatourism.gov.in/wp-content/uploads/2018/12/Goa-Tourist-Directory-2019.pdf"
+      }
+    },
+    {
+      "name": "Community ritual celebrations",
+      "description": "Festivals such as Chikhal Kalo include devotional ceremonies and community participation, showing that some cultural events have religious or ritual significance beyond entertainment.",
+      "source": {
+        "organization": "Department of Tourism, Government of Goa",
+        "title": "Chikhal Kalo",
+        "url": "https://goatourism.gov.in/chikhal-kalo/"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "Treat local customs, religious practices, festivals, folk performances, and community celebrations with respect.",
+    "Do not assume that Goa's beach tourism image represents the state's entire culture.",
+    "Ask before photographing people, religious rituals, or culturally significant activities when permission or local rules are unclear.",
+    "When entering religious or sacred spaces, follow the venue's instructions and dress expectations.",
+    "Do not treat ritual or community festivals simply as entertainment; some have important religious and social meanings.",
+    "Support local artists, craftspeople, family-run food businesses, and community-led experiences where appropriate.",
+    "Goa Tourism's current responsible-tourism approach encourages visitors to engage with local communities and traditions respectfully rather than remaining only spectators."
+  ],
+  "knowledge_limitations": [
+    "The verified knowledge base does not provide a sufficiently sourced everyday Konkani phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for all communities in Goa.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for Goa.",
+    "The verified knowledge base does not provide a comprehensive state-wide transportation etiquette guide.",
+    "Traditional clothing varies by community, religion, locality, occasion, and individual; descriptions should not be converted into universal dress rules.",
+    "Festival dates can change annually; current dates should be confirmed with the official Goa Tourism events calendar.",
+    "Descriptions of specific community traditions should not be generalized to all residents of Goa."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for Goa-specific cultural claims.",
+    "Do not invent Konkani phrases or translations.",
+    "Use festival information for festival-specific guidance and do not turn a community-specific practice into a universal Goa-wide rule.",
+    "Use traditional_dances, traditional_clothing, traditional_arts, and spiritual_and_cultural_practices to explain documented heritage and customs.",
+    "Do not invent food customs, rental prices, housing recommendations, transportation rules, or religious practices that are not supported by this knowledge base.",
+    "Clearly state when a practice varies by region, community, religion, family, generation, or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so rather than guessing.",
+    "Personalize the guide using verified information, but do not introduce unsupported Goa-specific factual claims."
+  ]
+}

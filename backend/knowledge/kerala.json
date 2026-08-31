@@ -1,0 +1,267 @@
+{
+  "state": "Kerala",
+  "cultural_context": {
+    "description": "Kerala has a diverse cultural heritage expressed through classical and folk performing arts, ritual traditions, festivals, cuisine, literature, crafts, and community celebrations.",
+    "important_note": "Cultural practices vary between regions, communities, religions, families, generations, and individual contexts. Information in this file should not be treated as universal to every person in Kerala.",
+    "source": {
+      "organization": "Department of Tourism, Government of Kerala",
+      "department": "Kerala Tourism",
+      "title": "Culture",
+      "url": "https://www.keralatourism.org/topic/culture"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [],
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "Do not assume that one communication style applies identically across Kerala's different communities and regions.",
+      "When participating in a cultural, religious, or ritual event, follow the guidance of local hosts, organizers, or the venue."
+    ],
+    "limitation": "The current verified knowledge base does not contain a sufficiently sourced Malayalam phrase list. Do not invent Malayalam greetings or translations."
+  },
+  "local_phrases": [],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Sadya and Onam",
+        "description": "Kerala Tourism describes Onam celebrations as including a grand feast called sadya, traditionally served on banana leaves.",
+        "source": {
+          "organization": "Department of Tourism, Government of Kerala",
+          "department": "Kerala Tourism",
+          "title": "Kerala Cultural Festivals",
+          "url": "https://www.keralatourism.org/faq/what-are-the-popular-cultural-festivals-how-can-i-experience-events-and-festivals"
+        }
+      },
+      {
+        "context": "Regional food diversity",
+        "description": "Kerala Tourism highlights the diverse culinary traditions of Kerala, including the culinary heritage of Malabar.",
+        "source": {
+          "organization": "Department of Tourism, Government of Kerala",
+          "department": "Kerala Tourism",
+          "title": "Culture",
+          "url": "https://www.keralatourism.org/topic/culture"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Do not assume that one dish or feast represents the food culture of every part of Kerala.",
+      "When attending a traditional feast or cultural event, follow the hosts' guidance about the meal and serving practices.",
+      "Respect individual dietary choices and religious or personal food restrictions."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every community and region in Kerala."
+  },
+  "core_values": [
+    {
+      "name": "Community participation",
+      "description": "Kerala Tourism describes festivals as involving wide participation by regions and communities, with families gathering and communal celebrations forming an important part of the festival experience.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Kerala Tourism",
+        "title": "Traditional Festivals",
+        "url": "https://www.keralatourism.org/event/traditional-festivals/"
+      }
+    },
+    {
+      "name": "Cultural preservation",
+      "description": "Government of Kerala material emphasizes responsible engagement with local artists, performers, craftspeople, and communities so that traditional art forms are respected and preserved.",
+      "source": {
+        "organization": "Government of Kerala",
+        "department": "Department of Information and Public Relations",
+        "title": "Experiencing Art Forms",
+        "url": "https://noticeboard.kerala.gov.in/documents/publications/file2208202314%3A27%3A46.pdf"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Onam",
+      "period": "Malayalam month of Chingam; dates vary by year",
+      "description": "Onam is one of Kerala's most widely celebrated festivals. Kerala Tourism associates it with the homecoming of King Mahabali and documents traditions including pookalam flower arrangements, traditional performances, boat races, and sadya.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Kerala Tourism",
+        "title": "Kerala Cultural Festivals",
+        "url": "https://www.keralatourism.org/faq/what-are-the-popular-cultural-festivals-how-can-i-experience-events-and-festivals"
+      }
+    },
+    {
+      "name": "Thrissur Pooram",
+      "period": "Malayalam calendar; date varies annually",
+      "description": "Thrissur Pooram is a major festival of Thrissur. Kerala Tourism describes decorated elephants, rhythmic percussion performances called panchavadyam, and fireworks among its prominent features.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Kerala Tourism",
+        "title": "Kerala Cultural Festivals",
+        "url": "https://www.keralatourism.org/faq/what-are-the-popular-cultural-festivals-how-can-i-experience-events-and-festivals"
+      }
+    },
+    {
+      "name": "Theyyam",
+      "period": "Season varies by locality and temple tradition",
+      "description": "Theyyam is a ritual art form particularly associated with northern Kerala. Kerala Tourism describes it as combining dance, mime and music and involving elaborate costumes and makeup.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Responsible Tourism Mission",
+        "title": "Cultural Experience in Kerala",
+        "url": "https://www.keralatourism.org/campaigns/kerala365/cultural-tour-kerala"
+      }
+    },
+    {
+      "name": "Aranmula Boat Race",
+      "period": "Around the Onam season; date varies annually",
+      "description": "The Aranmula Boat Race takes place on the Pamba River. Kerala Tourism describes it as a revered boat race associated with Aranmula and distinguishes its boats and rowing tradition from snake-boat races.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Kerala Tourism",
+        "title": "Kerala Cultural Festivals",
+        "url": "https://www.keralatourism.org/faq/what-are-the-popular-cultural-festivals-how-can-i-experience-events-and-festivals"
+      }
+    },
+    {
+      "name": "Attukal Pongala",
+      "period": "Malayalam calendar; date varies annually",
+      "description": "Attukal Pongala is an annual festival at Attukal Bhagavathy Temple in Thiruvananthapuram. Kerala Tourism describes it as an all-women observance involving preparation of a sweet porridge offering called pongala.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Kerala Tourism",
+        "title": "Kerala Cultural Festivals",
+        "url": "https://www.keralatourism.org/faq/what-are-the-popular-cultural-festivals-how-can-i-experience-events-and-festivals"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Kathakali",
+      "description": "Kathakali is a major Kerala performing art combining elements of dance, drama, music, elaborate makeup, and costume. Government of Kerala material identifies it as a prominent classical art form of the state.",
+      "source": {
+        "organization": "Government of Kerala",
+        "department": "State Planning Board",
+        "title": "Economic Review 2020-21, Chapter 9: Art, Culture and Sports",
+        "url": "https://spb.kerala.gov.in/sites/default/files/2021-01/English-Vol-1_0.pdf"
+      }
+    },
+    {
+      "name": "Mohiniyattam",
+      "description": "Mohiniyattam is a classical dance tradition associated with Kerala. Government of Kerala material identifies it among the state's established art forms.",
+      "source": {
+        "organization": "Government of Kerala",
+        "department": "State Planning Board",
+        "title": "Economic Review 2020-21, Chapter 9: Art, Culture and Sports",
+        "url": "https://spb.kerala.gov.in/sites/default/files/2021-01/English-Vol-1_0.pdf"
+      }
+    },
+    {
+      "name": "Theyyam",
+      "description": "Theyyam is a ritual performance tradition popular in northern Kerala, incorporating dance, mime, music, elaborate costumes, and makeup.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Responsible Tourism Mission",
+        "title": "Cultural Experience in Kerala",
+        "url": "https://www.keralatourism.org/campaigns/kerala365/cultural-tour-kerala"
+      }
+    },
+    {
+      "name": "Thiruvathirakali",
+      "description": "Thiruvathirakali is documented among the folk arts of Kerala in Government of Kerala cultural material.",
+      "source": {
+        "organization": "Government of Kerala",
+        "department": "State Planning Board",
+        "title": "Economic Review 2020-21, Chapter 9: Art, Culture and Sports",
+        "url": "https://spb.kerala.gov.in/sites/default/files/2021-01/English-Vol-1_0.pdf"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Traditional Kerala attire",
+      "description": "Traditional attire is associated with Kerala's cultural and ceremonial life, but clothing practices vary by community, gender, region, occasion, and individual preference.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Kerala Tourism",
+        "title": "Kerala Cultural Festivals",
+        "url": "https://www.keralatourism.org/faq/what-are-the-popular-cultural-festivals-how-can-i-experience-events-and-festivals"
+      },
+      "visitor_note": "Kerala Tourism advises visitors attending cultural events and festivals to dress modestly."
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Kalamezhuthu",
+      "description": "Kalamezhuthu is a ritual art in which drawings are created on the floor using powder. Kerala Tourism describes it as associated with temples and ritual worship.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Responsible Tourism Mission",
+        "title": "Cultural Experience in Kerala",
+        "url": "https://www.keralatourism.org/campaigns/kerala365/cultural-tour-kerala"
+      }
+    },
+    {
+      "name": "Padayani",
+      "description": "Padayani is a ritual art form celebrated mainly in central Kerala and is described by Kerala Tourism as being inspired by mythological dances.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Kerala Tourism",
+        "title": "Festivals",
+        "url": "https://www.keralatourism.org/event/"
+      }
+    },
+    {
+      "name": "Kalaripayattu",
+      "description": "Kalaripayattu is a traditional martial art associated with Kerala and is included by Government of Kerala material among the state's notable folk and cultural traditions.",
+      "source": {
+        "organization": "Government of Kerala",
+        "department": "State Planning Board",
+        "title": "Economic Review 2020-21, Chapter 9: Art, Culture and Sports",
+        "url": "https://spb.kerala.gov.in/sites/default/files/2021-01/English-Vol-1_0.pdf"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Ritual arts",
+      "description": "Kerala Tourism describes several traditional art forms as connected with worship and ritual, including Theyyam, Padayani, Theeyattu and Garudan Thookkam.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Responsible Tourism Mission",
+        "title": "Cultural Experience in Kerala",
+        "url": "https://www.keralatourism.org/responsible-tourism/cultural-experience"
+      }
+    },
+    {
+      "name": "Religious diversity",
+      "description": "Kerala Tourism highlights religious heritage including temples, churches, mosques and ritual traditions, reflecting the state's diverse religious and cultural landscape.",
+      "source": {
+        "organization": "Department of Tourism, Government of Kerala",
+        "department": "Kerala Tourism",
+        "title": "Welcome to Kerala Tourism",
+        "url": "https://www.keralatourism.org/"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "When attending a cultural or religious event, respect local traditions and follow the instructions of hosts, organizers, or venue authorities.",
+    "Kerala Tourism specifically advises visitors attending cultural events or festivals to dress modestly and avoid loud noises.",
+    "Do not treat ritual art forms as ordinary entertainment; some are connected with worship and religious practice.",
+    "Ask before photographing people, performers, rituals, or sacred spaces when local rules or sensitivities are unclear.",
+    "Do not assume a practice associated with one district, community, temple, church, mosque, or festival applies to all of Kerala.",
+    "Engage with local artists, performers, and craftspeople respectfully and avoid treating cultural traditions only as tourist spectacles."
+  ],
+  "knowledge_limitations": [
+    "The verified knowledge base does not provide a sufficiently sourced Malayalam phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for all regions and communities.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for Kerala.",
+    "The verified knowledge base does not provide a comprehensive state-wide transportation etiquette guide.",
+    "Clothing practices vary by community, occasion, venue, and individual; modest dress guidance is particularly relevant when attending cultural or religious events.",
+    "Festival dates can vary according to the Malayalam calendar and local traditions; current dates should be confirmed with local authorities or the official festival calendar."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for Kerala-specific cultural claims.",
+    "Do not invent Malayalam phrases or translations.",
+    "Use the festival information for festival-specific guidance and do not turn a local ritual into a universal Kerala-wide practice.",
+    "Treat Theyyam, Padayani, Kalamezhuthu, and other ritual arts as culturally and religiously contextual practices rather than generic entertainment.",
+    "Do not invent food customs, rental prices, housing recommendations, transportation rules, or religious practices that are not supported by this knowledge base.",
+    "Clearly state when a practice varies by region, community, religion, family, generation, or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so rather than guessing.",
+    "Personalize the guide using verified information, but do not introduce unsupported Kerala-specific factual claims."
+  ]
+}

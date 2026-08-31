@@ -1,0 +1,288 @@
+{
+  "state": "West Bengal",
+  "cultural_context": {
+    "description": "West Bengal has a diverse cultural heritage expressed through Bengali language and literature, classical and folk music and dance, festivals, religious traditions, crafts, textiles, cuisine, theatre, and the historic and cultural life of Kolkata and other regions of the state.",
+    "important_note": "Cultural practices vary across regions, communities, religions, families, generations, and individual contexts. Information in this file should not be treated as universal to every person in West Bengal.",
+    "source": {
+      "organization": "Department of Tourism, Government of West Bengal",
+      "title": "West Bengal Tourism",
+      "url": "https://wbtourism.gov.in/"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [],
+    "communication_guidance": [
+      "Use respectful communication when interacting with local people.",
+      "West Bengal has linguistic, religious, regional, and community diversity, so do not assume one communication style represents everyone.",
+      "Kolkata is particularly diverse and should not be treated as representative of every part of West Bengal.",
+      "When participating in a cultural or religious event, follow the guidance of local hosts, organizers, or the relevant venue."
+    ],
+    "limitation": "The current verified knowledge base does not contain a sufficiently sourced everyday Bengali phrase list. Do not invent Bengali phrases or translations."
+  },
+  "local_phrases": [],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Bengali culinary heritage",
+        "description": "Official West Bengal tourism material identifies Bengali cuisine as an important part of the state's cultural experience and documents regional food traditions.",
+        "source": {
+          "organization": "Department of Tourism, Government of West Bengal",
+          "title": "West Bengal Tourism",
+          "url": "https://wbtourism.gov.in/"
+        }
+      },
+      {
+        "context": "Kolkata food culture",
+        "description": "Kolkata has a well-documented culinary heritage that forms part of the city's broader cultural identity.",
+        "source": {
+          "organization": "Department of Tourism, Government of West Bengal",
+          "title": "Kolkata",
+          "url": "https://wbtourism.gov.in/district/detail/kolkata"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Do not assume Kolkata cuisine represents all of West Bengal.",
+      "Food practices can vary according to region, religion, community, family tradition, and individual preference.",
+      "Respect individual dietary choices and follow local hosts' guidance at traditional meals and community events."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every region and community in West Bengal."
+  },
+  "core_values": [
+    {
+      "name": "Literary and artistic heritage",
+      "description": "West Bengal has a strong documented heritage in literature, music, dance, theatre, visual arts, crafts, and cultural festivals.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "West Bengal",
+        "url": "https://www.incredibleindia.gov.in/en/west-bengal"
+      }
+    },
+    {
+      "name": "Regional and community diversity",
+      "description": "West Bengal includes distinct cultural regions and communities, including the Himalayan area, the plains, and coastal and forest regions. Cultural practices therefore differ significantly across locations.",
+      "source": {
+        "organization": "Department of Tourism, Government of West Bengal",
+        "title": "West Bengal Tourism",
+        "url": "https://wbtourism.gov.in/"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Durga Puja",
+      "period": "Usually September-October; dates vary annually",
+      "description": "Durga Puja is one of West Bengal's most prominent cultural festivals, especially associated with Kolkata and other parts of the state. It includes elaborate public celebrations, artistic installations, rituals, music, and community participation.",
+      "source": {
+        "organization": "Ministry of Culture, Government of India",
+        "title": "Durga Puja in Kolkata",
+        "url": "https://ich.unesco.org/en/RL/durga-puja-in-kolkata-00703"
+      }
+    },
+    {
+      "name": "Poila Boishakh",
+      "period": "Usually April 14 or 15; date follows the Bengali calendar",
+      "description": "Poila Boishakh is the Bengali New Year and is celebrated with cultural programs, family observances, traditional foods, and other regional customs.",
+      "source": {
+        "organization": "Department of Tourism, Government of West Bengal",
+        "title": "West Bengal Tourism",
+        "url": "https://wbtourism.gov.in/"
+      }
+    },
+    {
+      "name": "Kali Puja",
+      "period": "Usually October-November; date varies annually",
+      "description": "Kali Puja is an important religious festival in West Bengal and is observed with worship and community celebrations.",
+      "source": {
+        "organization": "Department of Tourism, Government of West Bengal",
+        "title": "West Bengal Tourism",
+        "url": "https://wbtourism.gov.in/"
+      }
+    },
+    {
+      "name": "Poush Mela",
+      "period": "Usually December",
+      "description": "Poush Mela is a cultural fair associated with Santiniketan and includes music, crafts, performances, and community participation.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Poush Mela",
+        "url": "https://utsav.gov.in/view-event/poush-mela"
+      }
+    },
+    {
+      "name": "Gangasagar Mela",
+      "period": "Usually January around Makar Sankranti",
+      "description": "Gangasagar Mela is a major pilgrimage and cultural gathering held at Sagar Island, with religious observances and participation by pilgrims and visitors.",
+      "source": {
+        "organization": "Department of Tourism, Government of West Bengal",
+        "title": "Gangasagar",
+        "url": "https://wbtourism.gov.in/destination/detail/gangasagar"
+      }
+    },
+    {
+      "name": "Naba Barsha",
+      "period": "Usually April; date follows the Bengali calendar",
+      "description": "Naba Barsha is another name used for the Bengali New Year celebration and is associated with cultural and community observances.",
+      "source": {
+        "organization": "Department of Tourism, Government of West Bengal",
+        "title": "West Bengal Tourism",
+        "url": "https://wbtourism.gov.in/"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Chhau",
+      "description": "Chhau is a traditional dance tradition practiced in eastern India. Purulia Chhau is strongly associated with Purulia in West Bengal and uses vigorous movement, music, and elaborate masks.",
+      "source": {
+        "organization": "UNESCO",
+        "title": "Chhau dance",
+        "url": "https://ich.unesco.org/en/RL/chhau-dance-00337"
+      }
+    },
+    {
+      "name": "Gambhira",
+      "description": "Gambhira is a folk performance tradition associated with Malda and other areas of West Bengal, combining music, dance, dialogue, and social themes.",
+      "source": {
+        "organization": "Department of Tourism, Government of West Bengal",
+        "title": "West Bengal Tourism",
+        "url": "https://wbtourism.gov.in/"
+      }
+    },
+    {
+      "name": "Baul performance tradition",
+      "description": "Baul traditions combine music, spiritual expression, poetry, and performance and form an important part of Bengal's intangible cultural heritage.",
+      "source": {
+        "organization": "UNESCO",
+        "title": "Baul songs",
+        "url": "https://ich.unesco.org/en/RL/baul-songs-00107"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Traditional Bengali attire",
+      "description": "Traditional clothing forms part of West Bengal's cultural and festival life. Sarees, dhotis, and regionally distinctive textiles are associated with traditional dress, but clothing varies by region, community, religion, occasion, and individual preference.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "West Bengal",
+        "url": "https://www.incredibleindia.gov.in/en/west-bengal"
+      }
+    },
+    {
+      "name": "Baluchari saree",
+      "description": "Baluchari sarees are a traditional handloom textile associated with Bishnupur in West Bengal and are known for woven narrative motifs.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Baluchari Saree",
+        "url": "https://handlooms.nic.in/"
+      }
+    },
+    {
+      "name": "Tant handloom",
+      "description": "Tant is a traditional Bengal handloom textile known for lightweight woven sarees and is associated with weaving traditions in West Bengal.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Tant Saree",
+        "url": "https://handlooms.nic.in/"
+      }
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Kantha embroidery",
+      "description": "Kantha is a traditional textile embroidery practice associated with Bengal and is used to create decorative and functional embroidered textiles.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Kantha",
+        "url": "https://handicrafts.nic.in/"
+      }
+    },
+    {
+      "name": "Dokra metal craft",
+      "description": "Dokra is a traditional lost-wax metal casting craft practiced in parts of West Bengal and other eastern Indian regions.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Dhokra Craft",
+        "url": "https://handicrafts.nic.in/"
+      }
+    },
+    {
+      "name": "Terracotta of Bishnupur",
+      "description": "Bishnupur is known for terracotta art and architecture, including decorative terracotta work associated with its historic temples.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Bishnupur",
+        "url": "https://www.incredibleindia.gov.in/en/west-bengal/bishnupur"
+      }
+    },
+    {
+      "name": "Patachitra",
+      "description": "Patachitra is a narrative painting tradition practiced in Bengal, particularly associated with scroll paintings and storytelling.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Patachitra",
+        "url": "https://handicrafts.nic.in/"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Durga Puja traditions",
+      "description": "Durga Puja includes religious worship alongside large-scale artistic, musical, and community celebrations. UNESCO recognizes Durga Puja in Kolkata as intangible cultural heritage.",
+      "source": {
+        "organization": "UNESCO",
+        "title": "Durga Puja in Kolkata",
+        "url": "https://ich.unesco.org/en/RL/durga-puja-in-kolkata-00703"
+      }
+    },
+    {
+      "name": "Baul spiritual tradition",
+      "description": "Baul songs and traditions combine music, poetry, spiritual ideas, and a distinctive community-based cultural practice in Bengal.",
+      "source": {
+        "organization": "UNESCO",
+        "title": "Baul songs",
+        "url": "https://ich.unesco.org/en/RL/baul-songs-00107"
+      }
+    },
+    {
+      "name": "Pilgrimage traditions",
+      "description": "Places such as Gangasagar have established pilgrimage traditions and large religious gatherings. Visitors should follow local instructions and respect religious practices.",
+      "source": {
+        "organization": "Department of Tourism, Government of West Bengal",
+        "title": "Gangasagar",
+        "url": "https://wbtourism.gov.in/destination/detail/gangasagar"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "Treat temples, religious ceremonies, festivals, folk performances, and community celebrations with respect.",
+    "During Durga Puja and other large festivals, follow crowd-management, venue, photography, and safety instructions.",
+    "Ask before photographing people, ritual performers, religious ceremonies, or culturally significant activities when permission or local rules are unclear.",
+    "When entering temples or other sacred spaces, follow the venue's instructions regarding clothing, footwear, photography, and behavior.",
+    "Do not assume that Kolkata's cultural practices represent the entire state.",
+    "Do not generalize community-specific traditions such as Baul or Purulia Chhau to all residents of West Bengal.",
+    "Respect cultural and religious practices as living traditions rather than treating them simply as tourist entertainment.",
+    "West Bengal contains distinct Himalayan, plains, coastal, forest, and urban cultural contexts; adapt respectfully to the local setting."
+  ],
+  "knowledge_limitations": [
+    "The verified knowledge base does not provide a sufficiently sourced everyday Bengali phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for all regions and communities.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations for West Bengal.",
+    "The verified knowledge base does not provide a comprehensive state-wide transportation etiquette guide.",
+    "Traditional clothing varies by region, community, religion, occasion, and individual; descriptions should not be converted into universal dress rules.",
+    "Festival dates vary annually or follow the Bengali calendar; current dates should be checked with official tourism or event sources.",
+    "Descriptions of community-specific traditions should not be generalized to all residents of West Bengal.",
+    "Kolkata-specific guidance should not automatically be presented as state-wide cultural practice."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for West Bengal-specific cultural claims.",
+    "Do not invent Bengali phrases or translations.",
+    "Use festival information for festival-specific guidance and do not turn a local or community-specific practice into a universal West Bengal-wide rule.",
+    "Use traditional_dances, traditional_clothing, traditional_arts, and spiritual_and_cultural_practices to explain documented heritage and customs.",
+    "Do not invent food customs, rental prices, housing recommendations, transportation rules, or religious practices that are not supported by this knowledge base.",
+    "Clearly state when a practice varies by region, community, religion, family, generation, or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so rather than guessing.",
+    "Personalize the guide using verified information, but do not introduce unsupported West Bengal-specific factual claims."
+  ]
+}

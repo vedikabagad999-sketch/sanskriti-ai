@@ -1,0 +1,242 @@
+{
+  "state": "Delhi",
+  "cultural_context": {
+    "description": "Delhi is a cosmopolitan capital with layered historical, religious, artistic, culinary, and urban traditions. Its cultural identity reflects centuries of interaction among different communities and the coexistence of historic areas such as Shahjahanabad with a modern metropolitan city.",
+    "important_note": "Delhi is a Union Territory and the National Capital Territory rather than a state. Cultural practices vary across neighborhoods, communities, religions, families, generations, and individual contexts. Information in this file should not be treated as universal to every person in Delhi.",
+    "source": {
+      "organization": "Delhi Tourism, Government of NCT of Delhi",
+      "title": "Delhi Tourism",
+      "url": "https://www.delhitourism.gov.in/"
+    }
+  },
+  "greetings_and_communication": {
+    "verified_information": [],
+    "communication_guidance": [
+      "Delhi is highly diverse, so do not assume that one language, accent, religion, or communication style represents the whole city.",
+      "Use respectful communication with local residents, shopkeepers, workers, hosts, and people in religious or heritage spaces.",
+      "In Old Delhi and other culturally significant areas, follow local venue and community guidance when participating in religious or cultural activities."
+    ],
+    "limitation": "The current verified knowledge base does not contain a sufficiently sourced everyday Delhi phrase list. Do not invent local phrases or translations."
+  },
+  "local_phrases": [],
+  "food_and_dining": {
+    "verified_information": [
+      {
+        "context": "Delhi culinary heritage",
+        "description": "Delhi Tourism describes the city as having diverse cuisine and food experiences. Official tourism material highlights Old Delhi and other areas for food and culinary exploration.",
+        "source": {
+          "organization": "Delhi Tourism, Government of NCT of Delhi",
+          "title": "Delhi Tourism",
+          "url": "https://www.delhitourism.gov.in/"
+        }
+      },
+      {
+        "context": "Old Delhi food culture",
+        "description": "Official tourism material describes Chandni Chowk and Old Delhi as important food areas and documents traditional Mughlai food experiences in the area.",
+        "source": {
+          "organization": "Ministry of Tourism, Government of India",
+          "title": "Delhi",
+          "url": "https://www.incredibleindia.gov.in/en/delhi/delhi"
+        }
+      }
+    ],
+    "dining_guidance": [
+      "Delhi's food culture is highly diverse; do not assume that Old Delhi cuisine represents every neighborhood or community.",
+      "Food preferences and dietary practices vary by religion, community, family, and individual choice.",
+      "Respect individual dietary choices and follow local hosts' guidance at traditional meals or community events."
+    ],
+    "limitation": "The verified knowledge base does not establish universal everyday dining etiquette for every community in Delhi."
+  },
+  "core_values": [
+    {
+      "name": "Cultural coexistence",
+      "description": "Delhi Tourism presents the city as a place where ancient and modern cultures coexist and where heritage, arts, crafts, cuisine, and contemporary urban life intersect.",
+      "source": {
+        "organization": "Delhi Tourism, Government of NCT of Delhi",
+        "title": "About Delhi",
+        "url": "https://www.delhitourism.gov.in/"
+      }
+    },
+    {
+      "name": "Heritage and pluralism",
+      "description": "Delhi contains major Hindu, Islamic, Sikh, Jain, Bahá'í, and other religious and cultural sites, making respectful behavior across different traditions especially important.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Delhi",
+        "url": "https://www.incredibleindia.gov.in/en/delhi/delhi"
+      }
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Diwali",
+      "period": "Usually October-November; date varies annually",
+      "description": "Diwali is widely celebrated in Delhi, with religious, family, community, and public traditions that vary among communities.",
+      "source": {
+        "organization": "Delhi Tourism, Government of NCT of Delhi",
+        "title": "Festivals in Delhi",
+        "url": "https://www.delhitourism.gov.in/"
+      }
+    },
+    {
+      "name": "Holi",
+      "period": "Usually March; date varies annually",
+      "description": "Holi is celebrated in Delhi as a major festival associated with colors, social gatherings, and seasonal traditions. Practices vary between communities and individuals.",
+      "source": {
+        "organization": "Delhi Tourism, Government of NCT of Delhi",
+        "title": "Festivals in Delhi",
+        "url": "https://www.delhitourism.gov.in/"
+      }
+    },
+    {
+      "name": "Eid",
+      "period": "Dates vary according to the Islamic calendar",
+      "description": "Eid is observed by Delhi's Muslim communities with religious observances, family gatherings, and community traditions.",
+      "source": {
+        "organization": "Delhi Tourism, Government of NCT of Delhi",
+        "title": "Delhi Tourism",
+        "url": "https://www.delhitourism.gov.in/"
+      }
+    },
+    {
+      "name": "Gurpurab",
+      "period": "Dates vary according to the Sikh calendar",
+      "description": "Gurpurab celebrations in Delhi include religious observances and community activities at gurdwaras and other locations.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Delhi",
+        "url": "https://www.incredibleindia.gov.in/en/delhi/delhi"
+      }
+    },
+    {
+      "name": "Delhi International Arts and cultural events",
+      "period": "Dates vary",
+      "description": "Delhi hosts a range of cultural, musical, theatre, craft, and heritage events throughout the year. Specific dates should be checked with official event organizers.",
+      "source": {
+        "organization": "Delhi Tourism, Government of NCT of Delhi",
+        "title": "Delhi Tourism",
+        "url": "https://www.delhitourism.gov.in/"
+      }
+    }
+  ],
+  "traditional_dances": [
+    {
+      "name": "Kathak",
+      "description": "Kathak is a major North Indian classical dance tradition with strong historical associations with Delhi and the broader North Indian cultural region.",
+      "source": {
+        "organization": "Ministry of Culture, Government of India",
+        "title": "Kathak",
+        "url": "https://www.indiaculture.gov.in/"
+      }
+    },
+    {
+      "name": "Qawwali performance tradition",
+      "description": "Qawwali is a Sufi musical tradition performed in Delhi's historic Sufi and shrine culture. It combines devotional poetry, singing, rhythm, and ensemble performance.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Delhi",
+        "url": "https://www.incredibleindia.gov.in/en/delhi/delhi"
+      }
+    }
+  ],
+  "traditional_clothing": [
+    {
+      "name": "Traditional North Indian attire",
+      "description": "Traditional clothing seen in Delhi can include garments such as sarees, salwar-kameez, kurta-pajama, sherwanis, and other regional or community-specific attire. Clothing varies by community, religion, occasion, and personal preference.",
+      "source": {
+        "organization": "Delhi Tourism, Government of NCT of Delhi",
+        "title": "Delhi Tourism",
+        "url": "https://www.delhitourism.gov.in/"
+      }
+    }
+  ],
+  "traditional_arts": [
+    {
+      "name": "Zardozi",
+      "description": "Zardozi is a traditional embroidery and metal-thread embellishment craft practiced in India and represented among the crafts and artisanal traditions available in Delhi.",
+      "source": {
+        "organization": "Ministry of Textiles, Government of India",
+        "title": "Zardozi",
+        "url": "https://handicrafts.nic.in/"
+      }
+    },
+    {
+      "name": "Dilli Haat craft traditions",
+      "description": "Dilli Haat provides a platform where artisans from different parts of India showcase and sell traditional arts, crafts, textiles, and products, making it a useful representation of India's wider craft diversity within Delhi.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Dilli Haat",
+        "url": "https://www.incredibleindia.gov.in/en/delhi/delhi/dilli-haat"
+      }
+    },
+    {
+      "name": "Old Delhi architectural and craft heritage",
+      "description": "Old Delhi contains historic markets, religious sites, architecture, and traditional commercial areas that form part of the city's living heritage.",
+      "source": {
+        "organization": "Delhi Tourism, Government of NCT of Delhi",
+        "title": "Old Delhi Walk",
+        "url": "https://delhitourism.gov.in/pdf/Small-walk.pdf"
+      }
+    }
+  ],
+  "spiritual_and_cultural_practices": [
+    {
+      "name": "Sufi shrine traditions",
+      "description": "Delhi has historic Sufi shrine traditions, and official tourism material highlights qawwali and spiritual experiences associated with the city's Sufi heritage.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Delhi",
+        "url": "https://www.incredibleindia.gov.in/en/delhi/delhi"
+      }
+    },
+    {
+      "name": "Gurdwara traditions",
+      "description": "Gurdwaras such as Bangla Sahib are important Sikh religious spaces in Delhi. Langar and community service are part of the experience described by official tourism material.",
+      "source": {
+        "organization": "Ministry of Tourism, Government of India",
+        "title": "Delhi",
+        "url": "https://www.incredibleindia.gov.in/en/delhi/delhi"
+      }
+    },
+    {
+      "name": "Multi-faith heritage",
+      "description": "Delhi includes significant Hindu, Muslim, Sikh, Jain, Bahá'í, and other religious sites. Visitors should follow the specific rules and customs of each place.",
+      "source": {
+        "organization": "Delhi Tourism, Government of NCT of Delhi",
+        "title": "Faith and Heritage",
+        "url": "https://delhitourism.gov.in/pdf/Faith.pdf"
+      }
+    }
+  ],
+  "visitor_guidance": [
+    "Treat temples, mosques, gurdwaras, shrines, and other religious spaces with respect.",
+    "Follow each venue's rules regarding footwear, clothing, photography, prayer times, and access.",
+    "At Jama Masjid and similar religious sites, be especially attentive to prayer timings and clothing requirements; follow current instructions displayed by the venue.",
+    "Ask before photographing people, religious ceremonies, performers, or culturally significant activities when permission is unclear.",
+    "Do not assume Old Delhi or Mughal-era traditions represent all of Delhi.",
+    "Do not assume the practices of one religious or cultural community apply to the whole city.",
+    "During major festivals and heritage events, follow crowd-management, safety, and venue instructions.",
+    "Respect Delhi's residential neighborhoods and local communities rather than treating cultural areas only as tourist attractions."
+  ],
+  "knowledge_limitations": [
+    "Delhi is a Union Territory/National Capital Territory rather than a state.",
+    "The verified knowledge base does not provide a sufficiently sourced everyday Delhi phrasebook.",
+    "The verified knowledge base does not establish universal everyday dining etiquette for every community in Delhi.",
+    "The verified knowledge base does not provide verified rental prices or specific housing recommendations.",
+    "The verified knowledge base does not provide a comprehensive city-wide transportation etiquette guide.",
+    "Traditional clothing varies by community, religion, occasion, and individual; descriptions should not be converted into universal dress rules.",
+    "Festival dates vary annually or according to different religious calendars; current dates should be checked with official organizers.",
+    "Old Delhi-specific practices should not automatically be presented as practices followed across all of Delhi.",
+    "Religious customs differ between communities and individual places of worship; venue-specific rules should take precedence."
+  ],
+  "ai_response_rules": [
+    "Use this knowledge base as the primary factual source for Delhi-specific cultural claims.",
+    "Do not invent Hindi, Urdu, Punjabi, or other local phrases or translations.",
+    "Use festival information for festival-specific guidance and do not turn a neighborhood- or community-specific practice into a universal Delhi-wide rule.",
+    "Use traditional_dances, traditional_clothing, traditional_arts, and spiritual_and_cultural_practices to explain documented heritage and customs.",
+    "Do not invent food customs, rental prices, housing recommendations, transportation rules, or religious practices that are not supported by this knowledge base.",
+    "Clearly state when a practice varies by neighborhood, community, religion, family, generation, or locality.",
+    "If the knowledge base does not contain enough verified information about a topic, say so rather than guessing.",
+    "Personalize the guide using verified information, but do not introduce unsupported Delhi-specific factual claims."
+  ]
+}
