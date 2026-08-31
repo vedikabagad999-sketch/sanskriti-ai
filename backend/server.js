@@ -12,7 +12,7 @@ const ai = new GoogleGenAI({
 });
 app.use(cors());
 
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 
 // Allow server to receive JSON data
@@ -355,7 +355,7 @@ Generate the final guide now.
 
 
 // Start server
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
 
     console.log(`Sanskriti AI server is running on port ${PORT}`);
 
