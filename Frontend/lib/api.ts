@@ -28,7 +28,7 @@ export type GuideResponse = {
   sources: GuideSource[]
 }
 
-const API_ENDPOINT = 'http://localhost:5000/generate-guide'
+const API_ENDPOINT = 'https://sanskriti-ai-rudv.onrender.com/generate-guide'
 
 // Flip this to false once the Express backend is reachable.
 const USE_MOCK = false
